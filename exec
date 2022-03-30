@@ -1,0 +1,27 @@
+#!/bin/bash
+
+if ! [[ -f ".env" ]]
+then
+	echo ".env file not found, please run setup"
+	exit 1
+fi
+
+OVERRIDE_FILE=""
+
+file="./docker-compose.override.yml"
+if [ -f "$file" ]
+then
+	echo "Using docker-compose.override.yml"
+	OVERRIDE_FILE="-f docker-compose.override.yml"
+else
+	echo "No override found"
+fi
+
+if [ -t 1 ]
+then
+	COMMAND="docker compose -f docker-compose.yml ${OVERRIDE_FILE} exec $*"
+else
+	COMMAND="docker compose -f docker-compose.yml ${OVERRIDE_FILE} exec -T $*"
+fi
+echo "executing: ${COMMAND}"
+${COMMAND}

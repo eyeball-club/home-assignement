@@ -1,0 +1,7 @@
+#!/bin/bash
+
+if (php -v &> /dev/null); then
+    COMMAND="./bin/console $*"
+fi
+
+${COMMAND}

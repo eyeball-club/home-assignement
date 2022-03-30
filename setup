@@ -1,0 +1,9 @@
+#!/bin/bash
+
+file="./.env"
+if [ -e $file ]; then
+  echo "File $file already exists!"
+else
+  echo "UID=${UID}" >> $file
+  echo "USER=${USER}" >> $file
+fi

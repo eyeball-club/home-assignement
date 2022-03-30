@@ -1,0 +1,22 @@
+#!/bin/bash
+
+CMD="git diff --name-only --staged --diff-filter=ACMR"
+
+res=$(${CMD})
+files=(${res})
+
+TO_CHECK=""
+pattern="*.php"
+for x in "${files[@]}"; do
+    if [[ $x == $pattern ]]; then
+        TO_CHECK="${TO_CHECK} ${x}"
+    fi
+done
+
+if [ -n "$TO_CHECK" ]; then
+    ./phpcs $TO_CHECK
+    ./phpcbf $TO_CHECK
+    git add $TO_CHECK
+    ./phpstan
+    #./rector process $TO_CHECK --dry-run -vvv
+fi

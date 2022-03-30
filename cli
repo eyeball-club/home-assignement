@@ -1,0 +1,9 @@
+#!/bin/bash
+
+if (php -v &> /dev/null); then
+    COMMAND="./bin/console $*"
+else
+    COMMAND="./exec -u ${USER} php ./cli $*"
+fi
+
+${COMMAND}

@@ -1,0 +1,11 @@
+#!/bin/bash
+
+PHPSTAN_COMMAND=${1:-"analyse"}
+shift
+if (php -v &> /dev/null); then
+    COMMAND="vendor/bin/phpstan ${PHPSTAN_COMMAND} $*"
+else
+    COMMAND="./exec -u ${USER} php vendor/bin/phpstan ${PHPSTAN_COMMAND} $*"
+fi
+
+${COMMAND}

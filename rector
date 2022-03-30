@@ -1,0 +1,11 @@
+#!/bin/bash
+
+RECTOR_COMMAND=${1:-"process --dry-run"}
+shift
+if (php -v &> /dev/null); then
+    COMMAND="vendor/bin/rector ${RECTOR_COMMAND} $*"
+else
+    COMMAND="./exec -u ${USER} php vendor/bin/rector ${RECTOR_COMMAND} $*"
+fi
+
+${COMMAND}
