@@ -1,0 +1,255 @@
+{
+    "id": 57,
+    "area": {
+        "id": 2072,
+        "name": "England"
+    },
+    "activeCompetitions": [
+        {
+            "id": 2021,
+            "area": {
+                "id": 2072,
+                "name": "England"
+            },
+            "name": "Premier League",
+            "code": "PL",
+            "plan": "TIER_ONE",
+            "lastUpdated": "2022-03-20T08:58:54Z"
+        },
+        {
+            "id": 2139,
+            "area": {
+                "id": 2072,
+                "name": "England"
+            },
+            "name": "Football League Cup",
+            "code": "FLC",
+            "plan": "TIER_THREE",
+            "lastUpdated": "2022-03-20T10:14:47Z"
+        }
+    ],
+    "name": "Arsenal FC",
+    "shortName": "Arsenal",
+    "tla": "ARS",
+    "crestUrl": "https://crests.football-data.org/57.png",
+    "address": "75 Drayton Park London N5 1BU",
+    "phone": "+44 (020) 76195003",
+    "website": "http://www.arsenal.com",
+    "email": "info@arsenal.co.uk",
+    "founded": 1886,
+    "clubColors": "Red / White",
+    "venue": "Emirates Stadium",
+    "squad": [
+        {
+            "id": 110,
+            "name": "Thomas Partey",
+            "position": "Midfielder",
+            "dateOfBirth": "1993-06-13T00:00:00Z",
+            "countryOfBirth": "Ghana",
+            "nationality": "Ghana",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 3174,
+            "name": "Bernd Leno",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1992-03-04T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 3244,
+            "name": "Cédric",
+            "position": "Defender",
+            "dateOfBirth": "1991-08-31T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Portugal",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 3477,
+            "name": "Granit Xhaka",
+            "position": "Midfielder",
+            "dateOfBirth": "1992-09-27T00:00:00Z",
+            "countryOfBirth": "Switzerland",
+            "nationality": "Switzerland",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 3755,
+            "name": "Mohamed El Neny",
+            "position": "Midfielder",
+            "dateOfBirth": "1992-07-11T00:00:00Z",
+            "countryOfBirth": "Egypt",
+            "nationality": "Egypt",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 5530,
+            "name": "Aaron Ramsdale",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1998-05-14T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 6154,
+            "name": "Ben White",
+            "position": "Defender",
+            "dateOfBirth": "1997-08-10T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 7427,
+            "name": "Martin Ødegaard",
+            "position": "Midfielder",
+            "dateOfBirth": "1998-12-17T00:00:00Z",
+            "countryOfBirth": "Norway",
+            "nationality": "Norway",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 7784,
+            "name": "Rob Holding",
+            "position": "Defender",
+            "dateOfBirth": "1995-09-20T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 7797,
+            "name": "Alexandre Lacazette",
+            "position": "Attacker",
+            "dateOfBirth": "1991-05-28T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 7800,
+            "name": "Eddie Nketiah",
+            "position": "Attacker",
+            "dateOfBirth": "1999-05-30T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8412,
+            "name": "Nicolas Pépé",
+            "position": "Attacker",
+            "dateOfBirth": "1995-05-29T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "Cote d'Ivoire",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8862,
+            "name": "Albert Sambi Lokonga",
+            "position": "Midfielder",
+            "dateOfBirth": "1999-10-22T00:00:00Z",
+            "countryOfBirth": "Belgium",
+            "nationality": "Belgium",
+            "shirtNumber": 48,
+            "role": "PLAYER"
+        },
+        {
+            "id": 9034,
+            "name": "Takehiro Tomiyasu",
+            "position": "Defender",
+            "dateOfBirth": "1998-11-05T00:00:00Z",
+            "countryOfBirth": "Japan",
+            "nationality": "Japan",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 15615,
+            "name": "Kieran Tierney",
+            "position": "Defender",
+            "dateOfBirth": "1997-06-05T00:00:00Z",
+            "countryOfBirth": "Isle of Man",
+            "nationality": "Scotland",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 23128,
+            "name": "Gabriel",
+            "position": "Defender",
+            "dateOfBirth": "1997-12-19T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 61450,
+            "name": "Martinelli",
+            "position": "Attacker",
+            "dateOfBirth": "2001-06-18T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 80459,
+            "name": "Nuno Tavares",
+            "position": "Defender",
+            "dateOfBirth": "2000-01-26T00:00:00Z",
+            "countryOfBirth": "Portugal",
+            "nationality": "Portugal",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 85570,
+            "name": "Emile Smith Rowe",
+            "position": "Midfielder",
+            "dateOfBirth": "2000-07-28T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 99813,
+            "name": "Bukayo Saka",
+            "position": "Attacker",
+            "dateOfBirth": "2001-09-05T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 165267,
+            "name": "Arthur Okonkwo",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2001-09-09T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": null
+        }
+    ],
+    "lastUpdated": "2022-02-10T19:48:56Z"
+}

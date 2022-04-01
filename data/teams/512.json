@@ -1,0 +1,294 @@
+{
+    "id": 512,
+    "area": {
+        "id": 2081,
+        "name": "France"
+    },
+    "activeCompetitions": [
+        {
+            "id": 2015,
+            "area": {
+                "id": 2081,
+                "name": "France"
+            },
+            "name": "Ligue 1",
+            "code": "FL1",
+            "plan": "TIER_ONE",
+            "lastUpdated": "2022-03-20T09:30:02Z"
+        }
+    ],
+    "name": "Stade Brestois 29",
+    "shortName": "Brest",
+    "tla": "BRE",
+    "crestUrl": "https://crests.football-data.org/512.png",
+    "address": "Port de Plaisance, 470 bis rue Alain Colas Brest 29200",
+    "phone": "+33 (0298) 022030",
+    "website": "http://www.stade-brestois.com",
+    "email": "daniel.leroux.sb29@hotmail.fr",
+    "founded": 1903,
+    "clubColors": "White / Red",
+    "venue": "Stade Francis-Le Blé",
+    "squad": [
+        {
+            "id": 436,
+            "name": "Gautier Larsonneur",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1997-02-23T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 1,
+            "role": "PLAYER"
+        },
+        {
+            "id": 440,
+            "name": "Julien Faussurier",
+            "position": "Defender",
+            "dateOfBirth": "1987-01-14T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 22,
+            "role": "PLAYER"
+        },
+        {
+            "id": 441,
+            "name": "Brendan Chardonnet",
+            "position": "Defender",
+            "dateOfBirth": "1994-12-22T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 5,
+            "role": "PLAYER"
+        },
+        {
+            "id": 619,
+            "name": "Denys Bain",
+            "position": "Defender",
+            "dateOfBirth": "1993-07-02T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 727,
+            "name": "Franck Honorat",
+            "position": "Attacker",
+            "dateOfBirth": "1996-08-11T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 9,
+            "role": "PLAYER"
+        },
+        {
+            "id": 731,
+            "name": "Grégoire Coudert",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1999-04-03T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 30,
+            "role": "PLAYER"
+        },
+        {
+            "id": 746,
+            "name": "Haris Belkebla",
+            "position": "Midfielder",
+            "dateOfBirth": "1994-01-28T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "Algeria",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 776,
+            "name": "Jean-Kevin Duverne",
+            "position": "Defender",
+            "dateOfBirth": "1997-08-12T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 2,
+            "role": "PLAYER"
+        },
+        {
+            "id": 856,
+            "name": "Romain Del Castillo",
+            "position": "Midfielder",
+            "dateOfBirth": "1996-03-29T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 22,
+            "role": "PLAYER"
+        },
+        {
+            "id": 7675,
+            "name": "Marco Bizot",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1991-03-10T00:00:00Z",
+            "countryOfBirth": "Netherlands",
+            "nationality": "Netherlands",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8193,
+            "name": "Steve Mounié",
+            "position": "Attacker",
+            "dateOfBirth": "1994-09-29T00:00:00Z",
+            "countryOfBirth": "Benin",
+            "nationality": "Benin",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8376,
+            "name": "Paul Lasne",
+            "position": "Midfielder",
+            "dateOfBirth": "1989-01-16T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8477,
+            "name": "Sébastien Cibois",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1998-03-02T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 16,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8529,
+            "name": "Ronaël Pierre-Gabriel",
+            "position": "Defender",
+            "dateOfBirth": "1998-06-13T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 20,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8613,
+            "name": "Christophe Hérelle",
+            "position": "Defender",
+            "dateOfBirth": "1992-08-22T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "Martinique",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8963,
+            "name": "Jere Uronen",
+            "position": "Defender",
+            "dateOfBirth": "1994-07-13T00:00:00Z",
+            "countryOfBirth": "Finland",
+            "nationality": "Finland",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 16930,
+            "name": "Irvin Cardona",
+            "position": "Attacker",
+            "dateOfBirth": "1997-08-08T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 14,
+            "role": "PLAYER"
+        },
+        {
+            "id": 57104,
+            "name": "Youcef Belaili",
+            "position": "Midfielder",
+            "dateOfBirth": "1992-03-14T00:00:00Z",
+            "countryOfBirth": "Algeria",
+            "nationality": "Algeria",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 76145,
+            "name": "Hugo Magnetti",
+            "position": "Midfielder",
+            "dateOfBirth": "1998-05-30T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 27,
+            "role": "PLAYER"
+        },
+        {
+            "id": 98223,
+            "name": "Lucien Agoume",
+            "position": "Midfielder",
+            "dateOfBirth": "2002-02-09T00:00:00Z",
+            "countryOfBirth": "Cameroon",
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 123200,
+            "name": "Lilian Brassier",
+            "position": "Attacker",
+            "dateOfBirth": "1999-11-02T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 24,
+            "role": "PLAYER"
+        },
+        {
+            "id": 133785,
+            "name": "Hianga Mananga Mbock",
+            "position": "Midfielder",
+            "dateOfBirth": "1999-12-28T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 28,
+            "role": "PLAYER"
+        },
+        {
+            "id": 134582,
+            "name": "Jérémy Le Douaron",
+            "position": "Attacker",
+            "dateOfBirth": "1998-04-21T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 26,
+            "role": "PLAYER"
+        },
+        {
+            "id": 139676,
+            "name": "Noé Sow",
+            "position": "Midfielder",
+            "dateOfBirth": "1998-12-18T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 148277,
+            "name": "Rafiki Said Ahamada",
+            "position": "Attacker",
+            "dateOfBirth": "2000-03-15T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "Comoros",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 152458,
+            "name": "Martin Satriano",
+            "position": "Attacker",
+            "dateOfBirth": "2001-02-20T00:00:00Z",
+            "countryOfBirth": "Uruguay",
+            "nationality": "Uruguay",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        }
+    ],
+    "lastUpdated": "2022-02-19T08:43:14Z"
+}

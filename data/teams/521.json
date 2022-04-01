@@ -1,0 +1,275 @@
+{
+    "id": 521,
+    "area": {
+        "id": 2081,
+        "name": "France"
+    },
+    "activeCompetitions": [
+        {
+            "id": 2001,
+            "area": {
+                "id": 2077,
+                "name": "Europe"
+            },
+            "name": "UEFA Champions League",
+            "code": "CL",
+            "plan": "TIER_ONE",
+            "lastUpdated": "2022-03-20T09:20:44Z"
+        },
+        {
+            "id": 2015,
+            "area": {
+                "id": 2081,
+                "name": "France"
+            },
+            "name": "Ligue 1",
+            "code": "FL1",
+            "plan": "TIER_ONE",
+            "lastUpdated": "2022-03-20T09:30:02Z"
+        }
+    ],
+    "name": "Lille OSC",
+    "shortName": "Lille",
+    "tla": "LIL",
+    "crestUrl": "https://crests.football-data.org/521.svg",
+    "address": "Grand Rue 59, 780 Camphin-en-Pévèle Lille null",
+    "phone": "+33 (0892) 685672",
+    "website": "http://www.losc.fr",
+    "email": "losclillemetropole.500054@ligue59-62.fr",
+    "founded": 1944,
+    "clubColors": "White / Red",
+    "venue": "Stade Pierre-Mauroy",
+    "squad": [
+        {
+            "id": 1132,
+            "name": "Leonardo",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1995-03-20T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 3245,
+            "name": "José Fonte",
+            "position": "Defender",
+            "dateOfBirth": "1983-12-22T00:00:00Z",
+            "countryOfBirth": "Portugal",
+            "nationality": "Portugal",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 7910,
+            "name": "Angel Gomes",
+            "position": "Midfielder",
+            "dateOfBirth": "2000-08-31T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 7988,
+            "name": "Renato Sanches",
+            "position": "Attacker",
+            "dateOfBirth": "1997-08-18T00:00:00Z",
+            "countryOfBirth": "Portugal",
+            "nationality": "Portugal",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8094,
+            "name": "Jérémy Pied",
+            "position": "Midfielder",
+            "dateOfBirth": "1989-02-23T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 26,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8392,
+            "name": "Adam Jakubech",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1997-01-02T00:00:00Z",
+            "countryOfBirth": "Slovakia",
+            "nationality": "Slovakia",
+            "shirtNumber": 1,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8485,
+            "name": "Hatem Ben Arfa",
+            "position": "Midfielder",
+            "dateOfBirth": "1987-03-07T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8547,
+            "name": "Jonathan Bamba",
+            "position": "Attacker",
+            "dateOfBirth": "1996-03-26T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 7,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8569,
+            "name": "Xeka",
+            "position": "Midfielder",
+            "dateOfBirth": "1994-11-10T00:00:00Z",
+            "countryOfBirth": "Portugal",
+            "nationality": "Portugal",
+            "shirtNumber": 8,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8811,
+            "name": "Benjamin André",
+            "position": "Midfielder",
+            "dateOfBirth": "1990-08-03T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 21,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8924,
+            "name": "Jonathan David",
+            "position": "Attacker",
+            "dateOfBirth": "2000-01-14T00:00:00Z",
+            "countryOfBirth": "United States",
+            "nationality": "Canada",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8990,
+            "name": "Edon Zhegrova",
+            "position": "Attacker",
+            "dateOfBirth": "1999-03-31T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Kosovo",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 23699,
+            "name": "Ivo Grbić",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1996-01-18T00:00:00Z",
+            "countryOfBirth": "Croatia",
+            "nationality": "Croatia",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 25504,
+            "name": "Domagoj Bradarić",
+            "position": "Defender",
+            "dateOfBirth": "1999-12-10T00:00:00Z",
+            "countryOfBirth": "Croatia",
+            "nationality": "Croatia",
+            "shirtNumber": 29,
+            "role": "PLAYER"
+        },
+        {
+            "id": 29622,
+            "name": "Zeki Çelik",
+            "position": "Defender",
+            "dateOfBirth": "1997-02-17T00:00:00Z",
+            "countryOfBirth": "Turkey",
+            "nationality": "Turkey",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 30323,
+            "name": "Burak Yılmaz",
+            "position": "Attacker",
+            "dateOfBirth": "1985-07-15T00:00:00Z",
+            "countryOfBirth": "Turkey",
+            "nationality": "Turkey",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 31531,
+            "name": "Gabriel Gudmundsson",
+            "position": "Attacker",
+            "dateOfBirth": "1999-04-29T00:00:00Z",
+            "countryOfBirth": "Sweden",
+            "nationality": "Sweden",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 37134,
+            "name": "Tiago Djaló",
+            "position": "Defender",
+            "dateOfBirth": "2000-04-09T00:00:00Z",
+            "countryOfBirth": "Portugal",
+            "nationality": "Portugal",
+            "shirtNumber": 3,
+            "role": "PLAYER"
+        },
+        {
+            "id": 81082,
+            "name": "Sven Botman",
+            "position": "Defender",
+            "dateOfBirth": "2000-01-12T00:00:00Z",
+            "countryOfBirth": "Netherlands",
+            "nationality": "Netherlands",
+            "shirtNumber": 5,
+            "role": "PLAYER"
+        },
+        {
+            "id": 102047,
+            "name": "Cheikh Niasse",
+            "position": "Midfielder",
+            "dateOfBirth": "2000-01-19T00:00:00Z",
+            "countryOfBirth": "Senegal",
+            "nationality": "Senegal",
+            "shirtNumber": 27,
+            "role": "PLAYER"
+        },
+        {
+            "id": 114024,
+            "name": "Amadou Onana",
+            "position": "Midfielder",
+            "dateOfBirth": "2001-08-16T00:00:00Z",
+            "countryOfBirth": "Senegal",
+            "nationality": "Belgium",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 125667,
+            "name": "Isaac Lihadji",
+            "position": "Attacker",
+            "dateOfBirth": "2002-04-10T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 19,
+            "role": "PLAYER"
+        },
+        {
+            "id": 170418,
+            "name": "Timothy Weah",
+            "position": null,
+            "dateOfBirth": "2000-02-22T00:00:00Z",
+            "countryOfBirth": null,
+            "nationality": "United States",
+            "shirtNumber": null,
+            "role": null
+        }
+    ],
+    "lastUpdated": "2021-02-06T18:01:32Z"
+}

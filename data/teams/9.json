@@ -1,0 +1,334 @@
+{
+    "id": 9,
+    "area": {
+        "id": 2088,
+        "name": "Germany"
+    },
+    "activeCompetitions": [
+        {
+            "id": 2002,
+            "area": {
+                "id": 2088,
+                "name": "Germany"
+            },
+            "name": "Bundesliga",
+            "code": "BL1",
+            "plan": "TIER_ONE",
+            "lastUpdated": "2022-03-20T08:52:53Z"
+        }
+    ],
+    "name": "Hertha BSC",
+    "shortName": "Hertha BSC",
+    "tla": "BSC",
+    "crestUrl": "https://crests.football-data.org/9.svg",
+    "address": "Hanns-Braun-Straße, Friesenhaus II Berlin 14053",
+    "phone": "+49 (030) 3009280",
+    "website": "http://www.herthabsc.de",
+    "email": "info@herthabsc.de",
+    "founded": 1892,
+    "clubColors": "Blue / White",
+    "venue": "Olympiastadion Berlin",
+    "squad": [
+        {
+            "id": 188,
+            "name": "Lukas Klünter",
+            "position": "Defender",
+            "dateOfBirth": "1996-05-26T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 3178,
+            "name": "Marvin Plattenhardt",
+            "position": "Defender",
+            "dateOfBirth": "1992-01-26T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 3647,
+            "name": "Dedryck Boyata",
+            "position": "Defender",
+            "dateOfBirth": "1990-11-28T00:00:00Z",
+            "countryOfBirth": "Belgium",
+            "nationality": "Belgium",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 6545,
+            "name": "Rune Jarstein",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1984-09-29T00:00:00Z",
+            "countryOfBirth": "Norway",
+            "nationality": "Norway",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 6548,
+            "name": "Peter Pekarík",
+            "position": "Defender",
+            "dateOfBirth": "1986-10-30T00:00:00Z",
+            "countryOfBirth": "Slovakia",
+            "nationality": "Slovakia",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 6549,
+            "name": "Maximilian Mittelstädt",
+            "position": "Defender",
+            "dateOfBirth": "1997-03-18T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 6556,
+            "name": "Vladimír Darida",
+            "position": "Midfielder",
+            "dateOfBirth": "1990-08-08T00:00:00Z",
+            "countryOfBirth": "Czech Republic",
+            "nationality": "Czech Republic",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 6557,
+            "name": "Niklas Stark",
+            "position": "Midfielder",
+            "dateOfBirth": "1995-04-14T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 6570,
+            "name": "Davie Selke",
+            "position": "Attacker",
+            "dateOfBirth": "1995-01-20T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 6629,
+            "name": "Suat Serdar",
+            "position": "Midfielder",
+            "dateOfBirth": "1997-04-11T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 6664,
+            "name": "Marco Richter",
+            "position": "Attacker",
+            "dateOfBirth": "1997-11-24T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 6717,
+            "name": "Kevin-Prince Boateng",
+            "position": "Midfielder",
+            "dateOfBirth": "1987-03-06T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Ghana",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 7567,
+            "name": "Jurgen Ekkelenkamp",
+            "position": "Midfielder",
+            "dateOfBirth": "2000-04-05T00:00:00Z",
+            "countryOfBirth": "Netherlands",
+            "nationality": "Netherlands",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8465,
+            "name": "Lucas Tousart",
+            "position": "Midfielder",
+            "dateOfBirth": "1997-04-29T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8473,
+            "name": "Myziane Maolida",
+            "position": "Attacker",
+            "dateOfBirth": "1999-02-14T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8767,
+            "name": "Stevan Jovetić",
+            "position": "Attacker",
+            "dateOfBirth": "1989-11-02T00:00:00Z",
+            "countryOfBirth": "Montenegro",
+            "nationality": "Montenegro",
+            "shirtNumber": 10,
+            "role": "PLAYER"
+        },
+        {
+            "id": 9403,
+            "name": "Santiago Ascacíbar",
+            "position": "Midfielder",
+            "dateOfBirth": "1997-02-25T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Argentina",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 9466,
+            "name": "Ishak Belfodil",
+            "position": "Attacker",
+            "dateOfBirth": "1992-01-12T00:00:00Z",
+            "countryOfBirth": "Algeria",
+            "nationality": "Algeria",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 9469,
+            "name": "Alexander Schwolow",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1992-06-02T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 9471,
+            "name": "Marc-Oliver Kempf",
+            "position": "Defender",
+            "dateOfBirth": "1995-01-28T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 24293,
+            "name": "Oliver Christensen",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1999-03-22T00:00:00Z",
+            "countryOfBirth": "Denmark",
+            "nationality": "Denmark",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 58338,
+            "name": "Nils Körber",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1996-11-13T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": 12,
+            "role": "PLAYER"
+        },
+        {
+            "id": 136091,
+            "name": "Kelian Nsona Wa Saka",
+            "position": "Attacker",
+            "dateOfBirth": "2002-05-11T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 21,
+            "role": "PLAYER"
+        },
+        {
+            "id": 141783,
+            "name": "Márton Dárdai",
+            "position": "Defender",
+            "dateOfBirth": "2002-02-12T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 147424,
+            "name": "Jonas Michelbrink",
+            "position": "Midfielder",
+            "dateOfBirth": "2001-06-23T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": 20,
+            "role": "PLAYER"
+        },
+        {
+            "id": 147425,
+            "name": "Ruwen Werthmüller",
+            "position": "Attacker",
+            "dateOfBirth": "2001-01-28T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Switzerland",
+            "shirtNumber": 14,
+            "role": "PLAYER"
+        },
+        {
+            "id": 177315,
+            "name": "Dong-jun Lee",
+            "position": null,
+            "dateOfBirth": "1997-02-01T00:00:00Z",
+            "countryOfBirth": null,
+            "nationality": "Korea, South",
+            "shirtNumber": null,
+            "role": null
+        },
+        {
+            "id": 177303,
+            "name": "Fredrik André Björkan",
+            "position": null,
+            "dateOfBirth": "1998-08-21T00:00:00Z",
+            "countryOfBirth": null,
+            "nationality": "Norway",
+            "shirtNumber": null,
+            "role": null
+        },
+        {
+            "id": 175963,
+            "name": "Anton Kade",
+            "position": null,
+            "dateOfBirth": "2004-01-17T00:00:00Z",
+            "countryOfBirth": null,
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": null
+        },
+        {
+            "id": 172709,
+            "name": "Linus Gechter",
+            "position": null,
+            "dateOfBirth": "2004-02-27T00:00:00Z",
+            "countryOfBirth": null,
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": null
+        }
+    ],
+    "lastUpdated": "2021-04-07T17:14:52Z"
+}

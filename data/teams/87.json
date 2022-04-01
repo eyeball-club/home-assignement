@@ -1,0 +1,275 @@
+{
+    "id": 87,
+    "area": {
+        "id": 2224,
+        "name": "Spain"
+    },
+    "activeCompetitions": [
+        {
+            "id": 2014,
+            "area": {
+                "id": 2224,
+                "name": "Spain"
+            },
+            "name": "Primera Division",
+            "code": "PD",
+            "plan": "TIER_ONE",
+            "lastUpdated": "2022-03-20T09:20:08Z"
+        },
+        {
+            "id": 2079,
+            "area": {
+                "id": 2224,
+                "name": "Spain"
+            },
+            "name": "Copa del Rey",
+            "code": "CDR",
+            "plan": "TIER_THREE",
+            "lastUpdated": "2021-04-16T00:00:33Z"
+        }
+    ],
+    "name": "Rayo Vallecano de Madrid",
+    "shortName": "Rayo Vallecano",
+    "tla": "RAY",
+    "crestUrl": "https://crests.football-data.org/87.svg",
+    "address": "Calle del Payaso Fofó, s/n Madrid 28018",
+    "phone": "+34 (914) 782253",
+    "website": "http://www.rayovallecano.es",
+    "email": "info@rayovallecano.es",
+    "founded": 1924,
+    "clubColors": "White / Red",
+    "venue": "Estadio del Rayo Vallecano",
+    "squad": [
+        {
+            "id": 7,
+            "name": "Kévin Rodrigues",
+            "position": "Midfielder",
+            "dateOfBirth": "1994-03-05T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "Portugal",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 3739,
+            "name": "Radamel Falcao",
+            "position": "Attacker",
+            "dateOfBirth": "1986-02-10T00:00:00Z",
+            "countryOfBirth": "Colombia",
+            "nationality": "Colombia",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 3871,
+            "name": "Luca Zidane",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1998-05-13T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8716,
+            "name": "Iván Balliu",
+            "position": "Defender",
+            "dateOfBirth": "1992-01-01T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Albania",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8921,
+            "name": "Mamadou Sylla",
+            "position": "Attacker",
+            "dateOfBirth": "1994-03-20T00:00:00Z",
+            "countryOfBirth": "Senegal",
+            "nationality": "Senegal",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 21741,
+            "name": "Mario Suárez",
+            "position": "Midfielder",
+            "dateOfBirth": "1987-02-24T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 32105,
+            "name": "Mario Hernández",
+            "position": "Defender",
+            "dateOfBirth": "1999-01-25T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 32109,
+            "name": "Óscar Valentín",
+            "position": "Midfielder",
+            "dateOfBirth": "1994-08-20T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 32114,
+            "name": "Santiago Comesaña",
+            "position": "Midfielder",
+            "dateOfBirth": "1996-10-05T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 32116,
+            "name": "Óscar Trejo",
+            "position": "Midfielder",
+            "dateOfBirth": "1988-04-26T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Argentina",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 32124,
+            "name": "Unai López",
+            "position": "Attacker",
+            "dateOfBirth": "1995-10-30T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 32128,
+            "name": "Bebé",
+            "position": "Attacker",
+            "dateOfBirth": "1990-07-12T00:00:00Z",
+            "countryOfBirth": "Portugal",
+            "nationality": "Portugal",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 32270,
+            "name": "Esteban Saveljich",
+            "position": "Defender",
+            "dateOfBirth": "1991-05-20T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Montenegro",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 32310,
+            "name": "Sergi Guardiola",
+            "position": "Attacker",
+            "dateOfBirth": "1991-05-29T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 32312,
+            "name": "Álvaro García",
+            "position": "Midfielder",
+            "dateOfBirth": "1992-10-27T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 33496,
+            "name": "Isi Palazón",
+            "position": "Midfielder",
+            "dateOfBirth": "1994-12-27T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 33781,
+            "name": "Stole Dimitrievski",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1993-12-25T00:00:00Z",
+            "countryOfBirth": "North Macedonia",
+            "nationality": "North Macedonia",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 37649,
+            "name": "Pathé Ciss",
+            "position": "Midfielder",
+            "dateOfBirth": "1994-03-16T00:00:00Z",
+            "countryOfBirth": "Senegal",
+            "nationality": "Senegal",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 45473,
+            "name": "Nikola Maraš",
+            "position": "Defender",
+            "dateOfBirth": "1995-12-19T00:00:00Z",
+            "countryOfBirth": "Serbia",
+            "nationality": "Serbia",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 50890,
+            "name": "Catena",
+            "position": "Defender",
+            "dateOfBirth": "1994-10-28T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 82364,
+            "name": "Martín Merquelanz",
+            "position": "Attacker",
+            "dateOfBirth": "1995-06-12T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 98032,
+            "name": "Randy Ntekja",
+            "position": "Midfielder",
+            "dateOfBirth": "1997-12-06T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 99993,
+            "name": "Francisco Garcia",
+            "position": "Defender",
+            "dateOfBirth": "1999-08-14T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        }
+    ],
+    "lastUpdated": "2021-04-14T07:46:05Z"
+}

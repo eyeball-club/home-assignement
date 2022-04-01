@@ -1,0 +1,295 @@
+{
+    "id": 76,
+    "area": {
+        "id": 2072,
+        "name": "England"
+    },
+    "activeCompetitions": [
+        {
+            "id": 2021,
+            "area": {
+                "id": 2072,
+                "name": "England"
+            },
+            "name": "Premier League",
+            "code": "PL",
+            "plan": "TIER_ONE",
+            "lastUpdated": "2022-03-20T08:58:54Z"
+        },
+        {
+            "id": 2139,
+            "area": {
+                "id": 2072,
+                "name": "England"
+            },
+            "name": "Football League Cup",
+            "code": "FLC",
+            "plan": "TIER_THREE",
+            "lastUpdated": "2022-03-20T10:14:47Z"
+        }
+    ],
+    "name": "Wolverhampton Wanderers FC",
+    "shortName": "Wolverhampton",
+    "tla": "WOL",
+    "crestUrl": "https://crests.football-data.org/76.svg",
+    "address": "Waterloo Road Wolverhampton WV1 4QR",
+    "phone": "+44 (0871) 2222220",
+    "website": "http://www.wolves.co.uk",
+    "email": "info@wolves.co.uk",
+    "founded": 1877,
+    "clubColors": "Black / Gold",
+    "venue": "Molineux Stadium",
+    "squad": [
+        {
+            "id": 2074,
+            "name": "Pedro Neto",
+            "position": "Attacker",
+            "dateOfBirth": "2000-03-09T00:00:00Z",
+            "countryOfBirth": "Portugal",
+            "nationality": "Portugal",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 3249,
+            "name": "João Moutinho",
+            "position": "Midfielder",
+            "dateOfBirth": "1986-09-08T00:00:00Z",
+            "countryOfBirth": "Portugal",
+            "nationality": "Portugal",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 3255,
+            "name": "Rúben Neves",
+            "position": "Midfielder",
+            "dateOfBirth": "1997-03-13T00:00:00Z",
+            "countryOfBirth": "Portugal",
+            "nationality": "Portugal",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 3305,
+            "name": "Raúl Jiménez",
+            "position": "Attacker",
+            "dateOfBirth": "1991-05-05T00:00:00Z",
+            "countryOfBirth": "Mexico",
+            "nationality": "Mexico",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 3354,
+            "name": "Hwang Heechan",
+            "position": "Attacker",
+            "dateOfBirth": "1996-01-26T00:00:00Z",
+            "countryOfBirth": "Korea Republic",
+            "nationality": "Korea, South",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 3659,
+            "name": "Leander Dendoncker",
+            "position": "Midfielder",
+            "dateOfBirth": "1995-04-15T00:00:00Z",
+            "countryOfBirth": "Belgium",
+            "nationality": "Belgium",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 3710,
+            "name": "Romain Saïss",
+            "position": "Midfielder",
+            "dateOfBirth": "1990-03-26T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "Morocco",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 3885,
+            "name": "Matija Šarkić",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1997-07-23T00:00:00Z",
+            "countryOfBirth": "Montenegro",
+            "nationality": "Montenegro",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 4078,
+            "name": "John Ruddy",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1986-10-24T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 4083,
+            "name": "Conor Coady",
+            "position": "Defender",
+            "dateOfBirth": "1993-02-25T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 4086,
+            "name": "Willy Boly",
+            "position": "Defender",
+            "dateOfBirth": "1991-02-03T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "Cote d'Ivoire",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8457,
+            "name": "Marçal",
+            "position": "Defender",
+            "dateOfBirth": "1989-02-19T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "shirtNumber": 20,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8642,
+            "name": "Rayan Aït Nouri",
+            "position": "Defender",
+            "dateOfBirth": "2001-06-06T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 15862,
+            "name": "Nélson Semedo",
+            "position": "Defender",
+            "dateOfBirth": "1993-11-16T00:00:00Z",
+            "countryOfBirth": "Portugal",
+            "nationality": "Portugal",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 15890,
+            "name": "Daniel Podence",
+            "position": "Attacker",
+            "dateOfBirth": "1995-10-21T00:00:00Z",
+            "countryOfBirth": "Portugal",
+            "nationality": "Portugal",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 15899,
+            "name": "José Sá",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1993-01-17T00:00:00Z",
+            "countryOfBirth": "Portugal",
+            "nationality": "Portugal",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 25376,
+            "name": "Max Kilman",
+            "position": "Defender",
+            "dateOfBirth": "1997-05-23T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 33622,
+            "name": "Jonny Castro",
+            "position": "Defender",
+            "dateOfBirth": "1994-03-03T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 37332,
+            "name": "Trincão",
+            "position": "Attacker",
+            "dateOfBirth": "1999-12-29T00:00:00Z",
+            "countryOfBirth": "Portugal",
+            "nationality": "Portugal",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 102044,
+            "name": "Ki-Jana Hoever",
+            "position": "Defender",
+            "dateOfBirth": "2002-01-18T00:00:00Z",
+            "countryOfBirth": "Netherlands",
+            "nationality": "Netherlands",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 102223,
+            "name": "Toti Gomes",
+            "position": "Defender",
+            "dateOfBirth": "1999-01-16T00:00:00Z",
+            "countryOfBirth": "Portugal",
+            "nationality": "Portugal",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 125151,
+            "name": "Fábio Silva",
+            "position": "Attacker",
+            "dateOfBirth": "2002-07-19T00:00:00Z",
+            "countryOfBirth": "Portugal",
+            "nationality": "Portugal",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 131115,
+            "name": "Luke Cundle",
+            "position": "Midfielder",
+            "dateOfBirth": "2002-04-26T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": 68,
+            "role": "PLAYER"
+        },
+        {
+            "id": 137985,
+            "name": "Chiquinho",
+            "position": "Attacker",
+            "dateOfBirth": "2000-02-05T00:00:00Z",
+            "countryOfBirth": "Portugal",
+            "nationality": "Portugal",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 153570,
+            "name": "Yerson Mosquera",
+            "position": "Midfielder",
+            "dateOfBirth": "2001-05-02T00:00:00Z",
+            "countryOfBirth": "Colombia",
+            "nationality": "Colombia",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        }
+    ],
+    "lastUpdated": "2021-04-09T02:25:24Z"
+}

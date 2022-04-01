@@ -1,0 +1,405 @@
+{
+    "id": 524,
+    "area": {
+        "id": 2081,
+        "name": "France"
+    },
+    "activeCompetitions": [
+        {
+            "id": 2001,
+            "area": {
+                "id": 2077,
+                "name": "Europe"
+            },
+            "name": "UEFA Champions League",
+            "code": "CL",
+            "plan": "TIER_ONE",
+            "lastUpdated": "2022-03-20T09:20:44Z"
+        },
+        {
+            "id": 2015,
+            "area": {
+                "id": 2081,
+                "name": "France"
+            },
+            "name": "Ligue 1",
+            "code": "FL1",
+            "plan": "TIER_ONE",
+            "lastUpdated": "2022-03-20T09:30:02Z"
+        }
+    ],
+    "name": "Paris Saint-Germain FC",
+    "shortName": "PSG",
+    "tla": "PSG",
+    "crestUrl": "https://crests.football-data.org/524.png",
+    "address": "24, rue de Commandant Guibaud Paris 7501",
+    "phone": "+33 (0139) 733467",
+    "website": "http://www.psg.fr",
+    "email": "communaute@psg.fr",
+    "founded": 1904,
+    "clubColors": "Red / Blue / White",
+    "venue": "Parc des Princes",
+    "squad": [
+        {
+            "id": 51,
+            "name": "Keylor Navas",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1986-12-15T00:00:00Z",
+            "countryOfBirth": "Costa Rica",
+            "nationality": "Costa Rica",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 53,
+            "name": "Achraf Hakimi",
+            "position": "Defender",
+            "dateOfBirth": "1998-11-04T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Morocco",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 357,
+            "name": "Juan Bernat",
+            "position": "Midfielder",
+            "dateOfBirth": "1993-03-01T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 1731,
+            "name": "Gianluigi Donnarumma",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1999-02-25T00:00:00Z",
+            "countryOfBirth": "Italy",
+            "nationality": "Italy",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 2014,
+            "name": "Mauro Icardi",
+            "position": "Attacker",
+            "dateOfBirth": "1993-02-19T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Argentina",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 3179,
+            "name": "Julian Draxler",
+            "position": "Midfielder",
+            "dateOfBirth": "1993-09-20T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 3192,
+            "name": "Sergio Ramos",
+            "position": "Defender",
+            "dateOfBirth": "1986-03-30T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 3210,
+            "name": "Ángel di María",
+            "position": "Midfielder",
+            "dateOfBirth": "1988-02-14T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Argentina",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 3214,
+            "name": "Leandro Paredes",
+            "position": "Midfielder",
+            "dateOfBirth": "1994-06-29T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Argentina",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 3218,
+            "name": "Lionel Messi",
+            "position": "Attacker",
+            "dateOfBirth": "1987-06-24T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Argentina",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 3225,
+            "name": "Marquinhos",
+            "position": "Defender",
+            "dateOfBirth": "1994-05-14T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 3363,
+            "name": "Presnel Kimpembe",
+            "position": "Defender",
+            "dateOfBirth": "1995-08-13T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 3374,
+            "name": "Kylian Mbappé",
+            "position": "Attacker",
+            "dateOfBirth": "1998-12-20T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 3627,
+            "name": "Idrissa Gana Guèye",
+            "position": "Midfielder",
+            "dateOfBirth": "1989-09-26T00:00:00Z",
+            "countryOfBirth": "Senegal",
+            "nationality": "Senegal",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 6493,
+            "name": "Thilo Kehrer",
+            "position": "Defender",
+            "dateOfBirth": "1996-09-21T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 6625,
+            "name": "Abdou Diallo",
+            "position": "Defender",
+            "dateOfBirth": "1996-05-04T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "Senegal",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 7871,
+            "name": "Georginio Wijnaldum",
+            "position": "Midfielder",
+            "dateOfBirth": "1990-11-11T00:00:00Z",
+            "countryOfBirth": "Netherlands",
+            "nationality": "Netherlands",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 7904,
+            "name": "Ander Herrera",
+            "position": "Midfielder",
+            "dateOfBirth": "1989-08-14T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8478,
+            "name": "Layvin Kurzawa",
+            "position": "Defender",
+            "dateOfBirth": "1992-09-04T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8482,
+            "name": "Marco Verratti",
+            "position": "Midfielder",
+            "dateOfBirth": "1992-11-05T00:00:00Z",
+            "countryOfBirth": "Italy",
+            "nationality": "Italy",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8491,
+            "name": "Neymar",
+            "position": "Attacker",
+            "dateOfBirth": "1992-02-05T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 15909,
+            "name": "Danilo Pereira",
+            "position": "Midfielder",
+            "dateOfBirth": "1991-09-09T00:00:00Z",
+            "countryOfBirth": "Guinea-Bissau",
+            "nationality": "Portugal",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 16261,
+            "name": "Alexandre Letellier",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1990-12-11T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 76722,
+            "name": "Colin Dagba",
+            "position": "Defender",
+            "dateOfBirth": "1998-09-06T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 116407,
+            "name": "Eric Junior Dina Ebimbe",
+            "position": "Defender",
+            "dateOfBirth": "2000-11-21T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 8,
+            "role": "PLAYER"
+        },
+        {
+            "id": 135090,
+            "name": "Garissone Innocent",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2000-04-16T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "Haiti",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 144570,
+            "name": "Nuno Mendes",
+            "position": "Defender",
+            "dateOfBirth": "2002-06-19T00:00:00Z",
+            "countryOfBirth": "Portugal",
+            "nationality": "Portugal",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 148289,
+            "name": "Xavi Simons",
+            "position": "Midfielder",
+            "dateOfBirth": "2003-04-21T00:00:00Z",
+            "countryOfBirth": "Netherlands",
+            "nationality": "Netherlands",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 160443,
+            "name": "Edouard Michut",
+            "position": "Attacker",
+            "dateOfBirth": "2003-03-04T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": null
+        },
+        {
+            "id": 160444,
+            "name": "Denis Franchi",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2002-10-22T00:00:00Z",
+            "countryOfBirth": "Italy",
+            "nationality": "Italy",
+            "shirtNumber": null,
+            "role": null
+        },
+        {
+            "id": 161414,
+            "name": "Ismaël Gharbi",
+            "position": null,
+            "dateOfBirth": "2004-04-10T00:00:00Z",
+            "countryOfBirth": null,
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": null
+        },
+        {
+            "id": 177307,
+            "name": "Lucas Lavallée",
+            "position": null,
+            "dateOfBirth": "2003-02-18T00:00:00Z",
+            "countryOfBirth": null,
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": null
+        },
+        {
+            "id": 177304,
+            "name": "Anfane Ahamada",
+            "position": null,
+            "dateOfBirth": "2002-05-07T00:00:00Z",
+            "countryOfBirth": null,
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": null
+        },
+        {
+            "id": 177301,
+            "name": "Tidjany Touré",
+            "position": null,
+            "dateOfBirth": "2002-07-15T00:00:00Z",
+            "countryOfBirth": null,
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": null
+        },
+        {
+            "id": 171536,
+            "name": "Nathan Bitumazala",
+            "position": null,
+            "dateOfBirth": "2002-12-10T00:00:00Z",
+            "countryOfBirth": null,
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": null
+        },
+        {
+            "id": 170415,
+            "name": "El Chadaille Bitshiabu",
+            "position": null,
+            "dateOfBirth": "2005-05-16T00:00:00Z",
+            "countryOfBirth": null,
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": null
+        }
+    ],
+    "lastUpdated": "2022-02-10T19:07:11Z"
+}

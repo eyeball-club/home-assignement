@@ -1,0 +1,316 @@
+{
+    "id": 94,
+    "area": {
+        "id": 2224,
+        "name": "Spain"
+    },
+    "activeCompetitions": [
+        {
+            "id": 2014,
+            "area": {
+                "id": 2224,
+                "name": "Spain"
+            },
+            "name": "Primera Division",
+            "code": "PD",
+            "plan": "TIER_ONE",
+            "lastUpdated": "2022-03-20T09:20:08Z"
+        },
+        {
+            "id": 2001,
+            "area": {
+                "id": 2077,
+                "name": "Europe"
+            },
+            "name": "UEFA Champions League",
+            "code": "CL",
+            "plan": "TIER_ONE",
+            "lastUpdated": "2022-03-20T09:20:44Z"
+        },
+        {
+            "id": 2079,
+            "area": {
+                "id": 2224,
+                "name": "Spain"
+            },
+            "name": "Copa del Rey",
+            "code": "CDR",
+            "plan": "TIER_THREE",
+            "lastUpdated": "2021-04-16T00:00:33Z"
+        }
+    ],
+    "name": "Villarreal CF",
+    "shortName": "Villarreal",
+    "tla": "VIL",
+    "crestUrl": "https://crests.football-data.org/94.png",
+    "address": "Camino Miralcamp, s/n Villarreal 12540",
+    "phone": "+34 (964) 500250",
+    "website": "http://www.villarrealcf.es",
+    "email": "villarrealcf@villarrealcf.es",
+    "founded": 1923,
+    "clubColors": "Yellow / Blue",
+    "venue": "Estadio de la Cerámica",
+    "squad": [
+        {
+            "id": 6,
+            "name": "Géronimo Rulli",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1992-05-20T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Argentina",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 19,
+            "name": "Aïssa Mandi",
+            "position": "Defender",
+            "dateOfBirth": "1991-10-22T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "Algeria",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 267,
+            "name": "Alfonso Pedraza",
+            "position": "Midfielder",
+            "dateOfBirth": "1996-04-09T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 2085,
+            "name": "Albiol",
+            "position": "Defender",
+            "dateOfBirth": "1985-09-04T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 3198,
+            "name": "Dani Parejo",
+            "position": "Midfielder",
+            "dateOfBirth": "1989-04-16T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 3216,
+            "name": "Giovani Lo Celso",
+            "position": "Midfielder",
+            "dateOfBirth": "1996-04-09T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Argentina",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 7860,
+            "name": "Alberto Moreno",
+            "position": "Defender",
+            "dateOfBirth": "1992-07-05T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 7996,
+            "name": "Juan Foyth",
+            "position": "Defender",
+            "dateOfBirth": "1998-01-12T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Argentina",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 7997,
+            "name": "Serge Aurier",
+            "position": "Defender",
+            "dateOfBirth": "1992-12-24T00:00:00Z",
+            "countryOfBirth": "Côte d’Ivoire",
+            "nationality": "Cote d'Ivoire",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8073,
+            "name": "Iborra",
+            "position": "Midfielder",
+            "dateOfBirth": "1988-01-16T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8118,
+            "name": "Étienne Capoue",
+            "position": "Midfielder",
+            "dateOfBirth": "1988-07-11T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 9870,
+            "name": "Arnaut Danjuma",
+            "position": "Attacker",
+            "dateOfBirth": "1997-01-31T00:00:00Z",
+            "countryOfBirth": "Nigeria",
+            "nationality": "Netherlands",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 11572,
+            "name": "Francis Coquelin",
+            "position": "Midfielder",
+            "dateOfBirth": "1991-05-13T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 15871,
+            "name": "Paco Alcácer",
+            "position": "Attacker",
+            "dateOfBirth": "1993-08-30T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 32217,
+            "name": "Moi Gómez",
+            "position": "Midfielder",
+            "dateOfBirth": "1994-06-23T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 32642,
+            "name": "Pervis Estupiñán",
+            "position": "Defender",
+            "dateOfBirth": "1998-01-21T00:00:00Z",
+            "countryOfBirth": "Ecuador",
+            "nationality": "Ecuador",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 32719,
+            "name": "Gerard Moreno",
+            "position": "Attacker",
+            "dateOfBirth": "1992-04-07T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 33100,
+            "name": "Sergio Asenjo",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1989-06-28T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 33105,
+            "name": "Mario Gaspar",
+            "position": "Defender",
+            "dateOfBirth": "1990-11-24T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 33109,
+            "name": "Pau Torres",
+            "position": "Defender",
+            "dateOfBirth": "1997-01-16T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 33115,
+            "name": "Trigueros",
+            "position": "Midfielder",
+            "dateOfBirth": "1991-10-17T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 33124,
+            "name": "Samuel Chukwueze",
+            "position": "Midfielder",
+            "dateOfBirth": "1999-05-22T00:00:00Z",
+            "countryOfBirth": "Nigeria",
+            "nationality": "Nigeria",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 33346,
+            "name": "Rubén Peña",
+            "position": "Midfielder",
+            "dateOfBirth": "1991-07-18T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 98299,
+            "name": "Boulaye Dia",
+            "position": "Midfielder",
+            "dateOfBirth": "1996-11-16T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "Senegal",
+            "shirtNumber": 11,
+            "role": "PLAYER"
+        },
+        {
+            "id": 146234,
+            "name": "Nikita Iosifov",
+            "position": "Attacker",
+            "dateOfBirth": "2001-04-11T00:00:00Z",
+            "countryOfBirth": "Russia",
+            "nationality": "Russia",
+            "shirtNumber": 68,
+            "role": "PLAYER"
+        },
+        {
+            "id": 152505,
+            "name": "Yeremi Pino",
+            "position": "Attacker",
+            "dateOfBirth": "2002-10-20T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        }
+    ],
+    "lastUpdated": "2022-02-22T18:26:04Z"
+}

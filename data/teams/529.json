@@ -1,0 +1,305 @@
+{
+    "id": 529,
+    "area": {
+        "id": 2081,
+        "name": "France"
+    },
+    "activeCompetitions": [
+        {
+            "id": 2015,
+            "area": {
+                "id": 2081,
+                "name": "France"
+            },
+            "name": "Ligue 1",
+            "code": "FL1",
+            "plan": "TIER_ONE",
+            "lastUpdated": "2022-03-20T09:30:02Z"
+        },
+        {
+            "id": 2154,
+            "area": {
+                "id": 2077,
+                "name": "Europe"
+            },
+            "name": "UEFA Conference League",
+            "code": "UCL",
+            "plan": "TIER_FOUR",
+            "lastUpdated": "2022-03-20T09:22:28Z"
+        }
+    ],
+    "name": "Stade Rennais FC 1901",
+    "shortName": "Stade Rennais",
+    "tla": "REN",
+    "crestUrl": "https://crests.football-data.org/529.png",
+    "address": "La Piverdière - Chemin de la Taupinais CS 5390 Rennes 35039",
+    "phone": "+33 (0820) 000035",
+    "website": "http://www.staderennais.com",
+    "email": "4500015@footlbf.fr",
+    "founded": 1901,
+    "clubColors": "Red / Black",
+    "venue": "Roazhon Park",
+    "squad": [
+        {
+            "id": 2345,
+            "name": "Alfred Gomis",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1993-09-05T00:00:00Z",
+            "countryOfBirth": "Senegal",
+            "nationality": "Senegal",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8517,
+            "name": "Gaëtan Laborde",
+            "position": "Attacker",
+            "dateOfBirth": "1994-05-03T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 10,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8646,
+            "name": "Baptiste Santamaria",
+            "position": "Midfielder",
+            "dateOfBirth": "1995-03-09T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 18,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8647,
+            "name": "Flavien Tait",
+            "position": "Midfielder",
+            "dateOfBirth": "1993-02-02T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 20,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8788,
+            "name": "Jonas Martin",
+            "position": "Midfielder",
+            "dateOfBirth": "1990-04-09T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 28,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8797,
+            "name": "Martin Terrier",
+            "position": "Attacker",
+            "dateOfBirth": "1997-03-04T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 21,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8808,
+            "name": "Hamari Traoré",
+            "position": "Defender",
+            "dateOfBirth": "1992-01-27T00:00:00Z",
+            "countryOfBirth": "Mali",
+            "nationality": "Mali",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8809,
+            "name": "Jérémy Gelin",
+            "position": "Defender",
+            "dateOfBirth": "1997-04-24T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 26,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8818,
+            "name": "Benjamin Bourigeaud",
+            "position": "Midfielder",
+            "dateOfBirth": "1994-01-14T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 14,
+            "role": "PLAYER"
+        },
+        {
+            "id": 15569,
+            "name": "Birger Meling",
+            "position": "Defender",
+            "dateOfBirth": "1994-12-17T00:00:00Z",
+            "countryOfBirth": "Norway",
+            "nationality": "Norway",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 15875,
+            "name": "Romain Salin",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1984-07-29T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 1,
+            "role": "PLAYER"
+        },
+        {
+            "id": 23214,
+            "name": "Lovro Majer",
+            "position": "Midfielder",
+            "dateOfBirth": "1998-01-17T00:00:00Z",
+            "countryOfBirth": "Croatia",
+            "nationality": "Croatia",
+            "shirtNumber": 10,
+            "role": "PLAYER"
+        },
+        {
+            "id": 81191,
+            "name": "Nayef Aguerd",
+            "position": "Defender",
+            "dateOfBirth": "1996-03-30T00:00:00Z",
+            "countryOfBirth": "Morocco",
+            "nationality": "Morocco",
+            "shirtNumber": 6,
+            "role": "PLAYER"
+        },
+        {
+            "id": 81872,
+            "name": "Doğan Alemdar",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2002-10-29T00:00:00Z",
+            "countryOfBirth": "Turkey",
+            "nationality": "Turkey",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 99775,
+            "name": "Jeremy Doku",
+            "position": "Attacker",
+            "dateOfBirth": "2002-05-27T00:00:00Z",
+            "countryOfBirth": "Belgium",
+            "nationality": "Belgium",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 131261,
+            "name": "Pépé Bonet",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2003-02-13T00:00:00Z",
+            "countryOfBirth": "Congo DR",
+            "nationality": "DR Congo",
+            "shirtNumber": 30,
+            "role": "PLAYER"
+        },
+        {
+            "id": 135467,
+            "name": "Warmed Omari",
+            "position": "Defender",
+            "dateOfBirth": "2000-04-23T00:00:00Z",
+            "countryOfBirth": "Mayotte",
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 135482,
+            "name": "Adrien Truffert",
+            "position": "Defender",
+            "dateOfBirth": "2001-11-20T00:00:00Z",
+            "countryOfBirth": "Belgium",
+            "nationality": "France",
+            "shirtNumber": 31,
+            "role": "PLAYER"
+        },
+        {
+            "id": 135485,
+            "name": "Lorenz Assignon",
+            "position": "Attacker",
+            "dateOfBirth": "2000-06-22T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 136039,
+            "name": "Loïc Bade",
+            "position": "Defender",
+            "dateOfBirth": "2000-04-11T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 4,
+            "role": "PLAYER"
+        },
+        {
+            "id": 142140,
+            "name": "Kamal Deen Sulemana",
+            "position": "Attacker",
+            "dateOfBirth": "2002-02-15T00:00:00Z",
+            "countryOfBirth": "Denmark",
+            "nationality": "Ghana",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 171977,
+            "name": "Mathys Tel",
+            "position": null,
+            "dateOfBirth": "2005-04-27T00:00:00Z",
+            "countryOfBirth": null,
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": null
+        },
+        {
+            "id": 170422,
+            "name": "Lesley Ugochukwu",
+            "position": null,
+            "dateOfBirth": "2004-03-26T00:00:00Z",
+            "countryOfBirth": null,
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": null
+        },
+        {
+            "id": 170419,
+            "name": "Serhou Guirassy",
+            "position": null,
+            "dateOfBirth": "1996-03-12T00:00:00Z",
+            "countryOfBirth": null,
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": null
+        },
+        {
+            "id": 170394,
+            "name": "Loum Tchaouna",
+            "position": null,
+            "dateOfBirth": "2003-09-08T00:00:00Z",
+            "countryOfBirth": null,
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": null
+        },
+        {
+            "id": 168656,
+            "name": "Andy Diouf",
+            "position": null,
+            "dateOfBirth": "2003-05-17T00:00:00Z",
+            "countryOfBirth": null,
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": null
+        }
+    ],
+    "lastUpdated": "2022-03-20T11:21:26Z"
+}

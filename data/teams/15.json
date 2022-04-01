@@ -1,0 +1,294 @@
+{
+    "id": 15,
+    "area": {
+        "id": 2088,
+        "name": "Germany"
+    },
+    "activeCompetitions": [
+        {
+            "id": 2002,
+            "area": {
+                "id": 2088,
+                "name": "Germany"
+            },
+            "name": "Bundesliga",
+            "code": "BL1",
+            "plan": "TIER_ONE",
+            "lastUpdated": "2022-03-20T08:52:53Z"
+        }
+    ],
+    "name": "1. FSV Mainz 05",
+    "shortName": "Mainz",
+    "tla": "M05",
+    "crestUrl": "https://crests.football-data.org/15.svg",
+    "address": "Dr.-Martin-Luther-King-Weg 20 Mainz 55122",
+    "phone": "+49 (06131) 375500",
+    "website": "http://www.mainz05.de",
+    "email": "info@mainz05.de",
+    "founded": 1905,
+    "clubColors": "Red / White",
+    "venue": "Opel Arena",
+    "squad": [
+        {
+            "id": 152,
+            "name": "Dominik Kohr",
+            "position": "Midfielder",
+            "dateOfBirth": "1994-01-31T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 329,
+            "name": "Ádám Szalai",
+            "position": "Attacker",
+            "dateOfBirth": "1987-12-09T00:00:00Z",
+            "countryOfBirth": "Hungary",
+            "nationality": "Hungary",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 2114,
+            "name": "Silvan Widmer",
+            "position": "Defender",
+            "dateOfBirth": "1993-03-05T00:00:00Z",
+            "countryOfBirth": "Switzerland",
+            "nationality": "Switzerland",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 3347,
+            "name": "Lee Jaesung",
+            "position": "Midfielder",
+            "dateOfBirth": "1992-08-10T00:00:00Z",
+            "countryOfBirth": "Korea Republic",
+            "nationality": "Korea, South",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 6616,
+            "name": "Robin Zentner",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1994-10-28T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 6617,
+            "name": "Finn Dahmen",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1998-03-27T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 6618,
+            "name": "Daniel Brosinski",
+            "position": "Defender",
+            "dateOfBirth": "1988-07-17T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 6620,
+            "name": "Stefan Bell",
+            "position": "Defender",
+            "dateOfBirth": "1991-08-24T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 6621,
+            "name": "Alexander Hack",
+            "position": "Defender",
+            "dateOfBirth": "1993-09-08T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 6636,
+            "name": "Karim Onisiwo",
+            "position": "Attacker",
+            "dateOfBirth": "1992-03-17T00:00:00Z",
+            "countryOfBirth": "Austria",
+            "nationality": "Austria",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 7465,
+            "name": "Jerry St. Juste",
+            "position": "Defender",
+            "dateOfBirth": "1996-10-19T00:00:00Z",
+            "countryOfBirth": "Netherlands",
+            "nationality": "Netherlands",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 7477,
+            "name": "Jean-Paul Boëtius",
+            "position": "Attacker",
+            "dateOfBirth": "1994-03-22T00:00:00Z",
+            "countryOfBirth": "Netherlands",
+            "nationality": "Netherlands",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8723,
+            "name": "Moussa Niakhaté",
+            "position": "Defender",
+            "dateOfBirth": "1996-03-08T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8989,
+            "name": "Marcus Ingvartsen",
+            "position": "Attacker",
+            "dateOfBirth": "1996-01-04T00:00:00Z",
+            "countryOfBirth": "Denmark",
+            "nationality": "Denmark",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 9511,
+            "name": "Anderson Lucoqui",
+            "position": "Defender",
+            "dateOfBirth": "1997-07-06T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Angola",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 9808,
+            "name": "Delano Burgzorg",
+            "position": "Attacker",
+            "dateOfBirth": "1998-11-07T00:00:00Z",
+            "countryOfBirth": "Netherlands",
+            "nationality": "Netherlands",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 9999,
+            "name": "Kevin Stöger",
+            "position": "Midfielder",
+            "dateOfBirth": "1993-08-27T00:00:00Z",
+            "countryOfBirth": "Austria",
+            "nationality": "Austria",
+            "shirtNumber": 22,
+            "role": "PLAYER"
+        },
+        {
+            "id": 32701,
+            "name": "Aaron Martín",
+            "position": "Defender",
+            "dateOfBirth": "1997-04-22T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 65843,
+            "name": "Anton Stach",
+            "position": "Midfielder",
+            "dateOfBirth": "1998-11-15T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 82403,
+            "name": "Leandro Barreiro Martins",
+            "position": "Midfielder",
+            "dateOfBirth": "2000-01-03T00:00:00Z",
+            "countryOfBirth": "Luxembourg",
+            "nationality": "Luxembourg",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 82404,
+            "name": "Jonathan Burkardt",
+            "position": "Attacker",
+            "dateOfBirth": "2000-07-11T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 101202,
+            "name": "David Nemeth",
+            "position": "Defender",
+            "dateOfBirth": "2001-03-18T00:00:00Z",
+            "countryOfBirth": "Austria",
+            "nationality": "Austria",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 150432,
+            "name": "Paul Nebel",
+            "position": "Attacker",
+            "dateOfBirth": "2002-10-10T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 150433,
+            "name": "Niklas Tauer",
+            "position": "Midfielder",
+            "dateOfBirth": "2001-02-17T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 150688,
+            "name": "Matondo-Merveille Papela",
+            "position": "Midfielder",
+            "dateOfBirth": "2001-01-18T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 170064,
+            "name": "Lasse Rieß",
+            "position": null,
+            "dateOfBirth": "2001-07-27T00:00:00Z",
+            "countryOfBirth": null,
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": null
+        }
+    ],
+    "lastUpdated": "2021-04-13T21:47:10Z"
+}
