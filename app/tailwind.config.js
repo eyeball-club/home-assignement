@@ -1,7 +1,10 @@
+const colors = require('tailwindcss/colors')
+
 module.exports = {
-  content: [],
-  theme: {
-    extend: {},
-  },
+  content: [
+    "./assets/**/*.{vue,js,ts,jsx,tsx}",
+    "./templates/**/*.{html,twig}"
+  ],
+  theme: {},
   plugins: [],
 }
