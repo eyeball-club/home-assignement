@@ -17,6 +17,28 @@ function returnJsonFileData($filepath)
 // returns the json file datas - Apr 2022 end
 }
 
+// returns team image list - Apr 2022 start
+if (!function_exists('getTeamImageDetail')) {
+function getTeamImageDetail($json, $pathurl)
+{
+    // get team images
+    if (isset($json)) {
+        foreach ($json as $key => $value) {
+            $home_team_path = $pathurl . 'teams/' . $value['homeTeam']['id'] . '.json'; // file path
+            $home_team_json = returnJsonFileData($home_team_path); // get the data from global function
+            
+            $away_team_path = $pathurl . 'teams/' . $value['awayTeam']['id'] . '.json'; // file path
+            $away_team_json = returnJsonFileData($away_team_path); // get the data from global function
+
+            $json[$key]['homeTeam']['image'] =  @$home_team_json['crestUrl'];
+            $json[$key]['awayTeam']['image'] =  @$away_team_json['crestUrl'];
+        }
+    }
+    return $json;
+}
+}
+// returns team image list - Apr 2022 end
+
 // returns response data starts
 if (!function_exists('returnData')) {
 function returnData($json)
