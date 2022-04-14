@@ -11,7 +11,7 @@ var noimgsvg = require("../../../img/no-img.svg")
 class MatchesList extends Component {
     constructor(props) {
         super(props);
-        this.state = { id: props?.match?.params?.id, matches: [], teams: [], loading: true }
+        this.state = { id: props?.match?.params?.id, matches: [], teams: [], loading: true, popup: false, tab: 1 }
     }
 
     componentDidMount() {
@@ -24,9 +24,16 @@ class MatchesList extends Component {
         this.setState({ teams: teamsData?.teams, matches: matchData?.matches, loading: false });
     }
 
+    hideTeamInfoPopup(params) {
+        this.setState({ popup: params })
+    }
+
+    tabshow(params) {
+        this.setState({ tab: params })
+    }
+
     render() {
         const loading = this.state.loading;
-        const teaminfo = this.state.teaminfo;
         return (
             <div className="bg-bodybg min-h-screen p-4">
 
@@ -52,6 +59,7 @@ class MatchesList extends Component {
                                         <li key={team.id}>
                                             <p
                                                 className="p-2.5 px-2.5 mx-2 rounded-flagradius font-semibold block hover:bg-primary hover:text-white capitalize  flex items-center group text-sm cursor-pointer"
+                                                onClick={() => this.hideTeamInfoPopup(true)}
                                             >
                                                 <span className="w-8 h-8 flex items-center justify-center rounded-radius5 mr-4 p-2 bg-iconbg group-hover:bg-white">
                                                     <img src={teamssvg} />
@@ -73,7 +81,7 @@ class MatchesList extends Component {
                                     {this.state?.matches?.length > 0 ? this.state?.matches?.map(match =>
                                         <div className="bg-white pt-8 p-8 pb-4 drop-shadow-whitebox rounded-whitebox text-center" key={match.id}>
                                             <div className="grid grid-cols-1 sm:grid-cols-2">
-                                                <div className="sm:mr-8 cursor-pointer">
+                                                <div className="sm:mr-8 cursor-pointer" onClick={() => this.hideTeamInfoPopup(true)}>
                                                     <span className="w-24 h-24 overflow-hidden rounded-flagradius inline-flex m-auto text-primary mb-8 items-center justify-center">
                                                         {
                                                             match?.homeTeam?.image ? (
@@ -88,7 +96,7 @@ class MatchesList extends Component {
                                                     <h6 className="text-textcolor text-sm border-t font-bold border-slate-100 pt-4 -mx-8">{match?.homeTeam?.name}</h6>
                                                 </div>
                                                 <small className="sm:absolute left-0 right-0 top-0 bottom-10 w-10 h-10 rounded-full flex items-center justify-center font-bold bg-secondary text-white my-8 sm:my-auto mx-auto">VS</small>
-                                                <div className="sm:ml-8 cursor-pointer">
+                                                <div className="sm:ml-8 cursor-pointer" onClick={() => this.hideTeamInfoPopup(true)}>
                                                     <span className="w-24 h-24 overflow-hidden rounded-flagradius inline-flex m-auto text-primary mb-8 items-center justify-center">
                                                         {
                                                             match?.awayTeam?.image ? (
@@ -113,6 +121,129 @@ class MatchesList extends Component {
 
                             </div>
                             {/* Match list starts */}
+
+                            {/* Single team info popup starts */}
+                            {
+                                this.state.popup == true ? (
+                                    <div>
+                                        <div className="justify-center items-center flex overflow-x-hidden overflow-y-auto fixed inset-0 z-50 outline-none focus:outline-none">
+                                            <div className="relative w-full mx-4 md:w-auto my-6 md:mx-auto md:max-w-3xl md:min-w-3xl">
+
+                                                {/*content*/}
+                                                <div className="border-0 rounded-lg shadow-lg relative w-full outline-none focus:outline-none bg-white">
+
+                                                    {/*header*/}
+                                                    <div className="flex items-start justify-between bg-modalhead rounded-t-lg">
+
+                                                        <ul className="flex items-center p-0 m-0">
+                                                            <li className="nav-item">
+                                                                <a className={"p-3 px-5 inline-block mr-4 text-fs12 font-semibold relative cursor-pointer border-b-2" + (this.state.tab == 1 ? " text-secondary border-b-secondary" : ' text-paracolor border-b-transparent')}
+                                                                    onClick={() => this.tabshow(1)}
+                                                                > Basic Info
+                                                                </a>
+                                                            </li>
+
+                                                            <li className="nav-item">
+                                                                <a className={"p-3 px-5 inline-block mr-4 text-fs12 font-semibold relative cursor-pointer border-b-2" + (this.state.tab == 2 ? " text-secondary border-b-secondary" : ' text-paracolor border-b-transparent')}
+                                                                    onClick={() => this.tabshow(2)}
+                                                                > Player Details
+                                                                </a>
+                                                            </li>
+                                                        </ul>
+
+
+                                                        <button className="h-7 w-7 rounded-full bg-white font-semibold outline-none focus:outline-none cursor-pointer absolute right-0 -top-10 flex items-center justify-center" onClick={() => this.hideTeamInfoPopup(false)} >
+                                                            <b className="-mt-0.5">&times;</b>
+                                                        </button>
+                                                    </div>
+
+
+                                                    {/*body*/}
+
+                                                    {this.state.tab == 1 ?
+
+                                                        <div className="sm:flex p-8">
+                                                            <div className="w-full sm:w-3/12 mb-8 sm:mb-0 text-center">
+                                                                <div className='w-20 h-20 bg-slate-100 m-auto flex items-center justify-center rounded-radius5'>
+                                                                    <img src="https://crests.football-data.org/3.png" className="max-w-10rm sm:max-w-full m-auto mb-8 sm:mb-0" />
+
+                                                                </div>
+                                                            </div>
+                                                            <div className="w-full sm:w-9/12 sm:ml-8">
+                                                                <h3 className="flex items-center justify-between font-bold opacity-75 mb-4">Bayer 04 Leverkusen <small>Leverkusen </small> </h3>
+                                                                <div className="text-paracolor text-fs12">
+                                                                    <p className="mb-4">Static Content: Club formateur de nombreux joueurs professionnels dont Riyad Mahrez, l'AAS Sarcelles est un top club amateur en Ile de France et une institution dans le Val d'Ose.</p>
+                                                                    <p className="mb-4">Bismarckstr. 122-124 Leverkusen 51373, BayArena, +49 (01805) 040404</p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+
+                                                        :
+
+                                                        <div className="p-8 m-auto w-full">
+
+                                                            <div className="overflow-auto w-full max-h-72vh border rounded-radius5">
+
+                                                                <table className="text-fs12 text-left table-fixed w-full">
+                                                                    <thead>
+                                                                        <tr>
+                                                                            <th width="25%" className="p-3 sticky top-0 font-bold bg-white border-b">No.</th>
+                                                                            <th width="25%" className="p-3 sticky top-0 font-bold bg-white border-b">YOB</th>
+                                                                            <th width="50%" className="p-3 sticky top-0 font-bold bg-white border-b" >Players</th>
+                                                                        </tr>
+                                                                    </thead>
+                                                                    <tbody>
+                                                                        <tr >
+                                                                            <td className="p-3 border-b border-slate-100">1</td>
+                                                                            <td className="p-3 border-b border-slate-100">1996</td>
+                                                                            <td className="p-3 border-b border-slate-100">Jonathan Tah</td>
+                                                                        </tr>
+
+                                                                        <tr >
+                                                                            <td className="p-3 border-b border-slate-100">2</td>
+                                                                            <td className="p-3 border-b border-slate-100">1996</td>
+                                                                            <td className="p-3 border-b border-slate-100">Jonathan Tah</td>
+                                                                        </tr>
+
+                                                                        <tr >
+                                                                            <td className="p-3 border-b border-slate-100">3</td>
+                                                                            <td className="p-3 border-b border-slate-100">1996</td>
+                                                                            <td className="p-3 border-b border-slate-100">Jonathan Tah</td>
+                                                                        </tr>
+
+                                                                        <tr >
+                                                                            <td className="p-3 border-b border-slate-100">4</td>
+                                                                            <td className="p-3 border-b border-slate-100">1996</td>
+                                                                            <td className="p-3 border-b border-slate-100">Jonathan Tah</td>
+                                                                        </tr>
+
+                                                                        <tr >
+                                                                            <td className="p-3 border-b border-slate-100">5</td>
+                                                                            <td className="p-3 border-b border-slate-100">1996</td>
+                                                                            <td className="p-3 border-b border-slate-100">Jonathan Tah</td>
+                                                                        </tr>
+
+                                                                        <tr >
+                                                                            <td className="p-3 border-b border-slate-100">6</td>
+                                                                            <td className="p-3 border-b border-slate-100">1996</td>
+                                                                            <td className="p-3 border-b border-slate-100">Jonathan Tah</td>
+                                                                        </tr>
+
+                                                                    </tbody>
+                                                                </table>
+                                                            </div>
+                                                        </div>
+                                                    }
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div className="opacity-75 fixed inset-0 z-40 bg-black"></div>
+                                    </div>
+                                )
+                                    : ''
+                            }
+                            {/* Single team info popup starts */}
                         </div>
 
                     )}
