@@ -1,5 +1,5 @@
 // Import the endpoints.
-import { competitionslist, matchlist, teamslist } from '../Configuration/config_url';
+import { competitionslist, matchlist, teamslist, teaminfo } from '../Configuration/config_url';
 // Import the axios Method.
 import { getAPI, postAPI, putAPI, deleteAPI } from './axiosMethodCalls';
 
@@ -33,6 +33,17 @@ export const getteamData = async (array) => {
     try {
         var queryString = concatarray(array);
         const response = await getAPI(teamslist+queryString,);
+        return response.data;
+    }
+    catch(error){
+        console.log(`url: ${competitionslist} Axios request failed ${error}`);
+    }
+}
+
+export const getteamInfo = async (array) => {
+    try {
+        var queryString = concatarray(array);
+        const response = await getAPI(teaminfo+queryString,);
         return response.data;
     }
     catch(error){

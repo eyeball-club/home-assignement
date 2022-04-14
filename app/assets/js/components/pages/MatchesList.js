@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Link } from "react-router-dom";
-import { getmatchData, getteamData } from '../Datalayer/datalayerUtilities';
+import { getmatchData, getteamData, getteamInfo } from '../Datalayer/datalayerUtilities';
 
 // images decleration
 var teamssvg = require("../../../img/teams.svg")
@@ -11,7 +11,7 @@ var noimgsvg = require("../../../img/no-img.svg")
 class MatchesList extends Component {
     constructor(props) {
         super(props);
-        this.state = { id: props?.match?.params?.id, matches: [], teams: [], loading: true, popup: false, tab: 1 }
+        this.state = { id: props?.match?.params?.id, matches: [], teams: [], loading: true, popup: false, tab: 1, teaminfo: [] }
     }
 
     componentDidMount() {
@@ -24,6 +24,11 @@ class MatchesList extends Component {
         this.setState({ teams: teamsData?.teams, matches: matchData?.matches, loading: false });
     }
 
+    async getTeamInfo(id) {
+        const teaminfo = await getteamInfo({ 'id': id });
+        this.setState({ teaminfo: teaminfo, popup: true, tab: 1 });
+    }
+
     hideTeamInfoPopup(params) {
         this.setState({ popup: params })
     }
@@ -32,8 +37,15 @@ class MatchesList extends Component {
         this.setState({ tab: params })
     }
 
+    getYearFormDate(date) {
+        var newDate = new Date(date);
+        var year = newDate.getFullYear();
+        return year;
+    }
+
     render() {
         const loading = this.state.loading;
+        const teaminfo = this.state.teaminfo;
         return (
             <div className="bg-bodybg min-h-screen p-4">
 
@@ -59,7 +71,7 @@ class MatchesList extends Component {
                                         <li key={team.id}>
                                             <p
                                                 className="p-2.5 px-2.5 mx-2 rounded-flagradius font-semibold block hover:bg-primary hover:text-white capitalize  flex items-center group text-sm cursor-pointer"
-                                                onClick={() => this.hideTeamInfoPopup(true)}
+                                                onClick={() => this.getTeamInfo(team.id)}
                                             >
                                                 <span className="w-8 h-8 flex items-center justify-center rounded-radius5 mr-4 p-2 bg-iconbg group-hover:bg-white">
                                                     <img src={teamssvg} />
@@ -81,7 +93,7 @@ class MatchesList extends Component {
                                     {this.state?.matches?.length > 0 ? this.state?.matches?.map(match =>
                                         <div className="bg-white pt-8 p-8 pb-4 drop-shadow-whitebox rounded-whitebox text-center" key={match.id}>
                                             <div className="grid grid-cols-1 sm:grid-cols-2">
-                                                <div className="sm:mr-8 cursor-pointer" onClick={() => this.hideTeamInfoPopup(true)}>
+                                                <div className="sm:mr-8 cursor-pointer" onClick={() => this.getTeamInfo(match?.homeTeam?.id)}>
                                                     <span className="w-24 h-24 overflow-hidden rounded-flagradius inline-flex m-auto text-primary mb-8 items-center justify-center">
                                                         {
                                                             match?.homeTeam?.image ? (
@@ -96,7 +108,7 @@ class MatchesList extends Component {
                                                     <h6 className="text-textcolor text-sm border-t font-bold border-slate-100 pt-4 -mx-8">{match?.homeTeam?.name}</h6>
                                                 </div>
                                                 <small className="sm:absolute left-0 right-0 top-0 bottom-10 w-10 h-10 rounded-full flex items-center justify-center font-bold bg-secondary text-white my-8 sm:my-auto mx-auto">VS</small>
-                                                <div className="sm:ml-8 cursor-pointer" onClick={() => this.hideTeamInfoPopup(true)}>
+                                                <div className="sm:ml-8 cursor-pointer" onClick={() => this.getTeamInfo(match?.awayTeam?.id)}>
                                                     <span className="w-24 h-24 overflow-hidden rounded-flagradius inline-flex m-auto text-primary mb-8 items-center justify-center">
                                                         {
                                                             match?.awayTeam?.image ? (
@@ -164,16 +176,21 @@ class MatchesList extends Component {
 
                                                         <div className="sm:flex p-8">
                                                             <div className="w-full sm:w-3/12 mb-8 sm:mb-0 text-center">
-                                                                <div className='w-20 h-20 bg-slate-100 m-auto flex items-center justify-center rounded-radius5'>
-                                                                    <img src="https://crests.football-data.org/3.png" className="max-w-10rm sm:max-w-full m-auto mb-8 sm:mb-0" />
-
-                                                                </div>
+                                                                {
+                                                                    teaminfo?.crestUrl ? (
+                                                                        <img src={teaminfo?.crestUrl} className="max-w-10rm sm:max-w-full m-auto mb-8 sm:mb-0" />
+                                                                    ) : (
+                                                                        <div className='w-20 h-20 bg-slate-100 m-auto flex items-center justify-center rounded-radius5'>
+                                                                            <img src={noimgsvg} className="max-h-full inline-block opacity-50" />
+                                                                        </div>
+                                                                    )
+                                                                }
                                                             </div>
                                                             <div className="w-full sm:w-9/12 sm:ml-8">
-                                                                <h3 className="flex items-center justify-between font-bold opacity-75 mb-4">Bayer 04 Leverkusen <small>Leverkusen </small> </h3>
+                                                                <h3 className="flex items-center justify-between font-bold opacity-75 mb-4">{teaminfo?.name} <small>{teaminfo?.shortName} </small> </h3>
                                                                 <div className="text-paracolor text-fs12">
                                                                     <p className="mb-4">Static Content: Club formateur de nombreux joueurs professionnels dont Riyad Mahrez, l'AAS Sarcelles est un top club amateur en Ile de France et une institution dans le Val d'Ose.</p>
-                                                                    <p className="mb-4">Bismarckstr. 122-124 Leverkusen 51373, BayArena, +49 (01805) 040404</p>
+                                                                    <p className="mb-4">{teaminfo?.address}{teaminfo?.address && teaminfo?.venue ? ',  ' : ''}{teaminfo?.venue}{teaminfo?.venue && teaminfo?.phone ? ',  ' : ''}{teaminfo?.phone} </p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -193,42 +210,17 @@ class MatchesList extends Component {
                                                                         </tr>
                                                                     </thead>
                                                                     <tbody>
-                                                                        <tr >
-                                                                            <td className="p-3 border-b border-slate-100">1</td>
-                                                                            <td className="p-3 border-b border-slate-100">1996</td>
-                                                                            <td className="p-3 border-b border-slate-100">Jonathan Tah</td>
-                                                                        </tr>
-
-                                                                        <tr >
-                                                                            <td className="p-3 border-b border-slate-100">2</td>
-                                                                            <td className="p-3 border-b border-slate-100">1996</td>
-                                                                            <td className="p-3 border-b border-slate-100">Jonathan Tah</td>
-                                                                        </tr>
-
-                                                                        <tr >
-                                                                            <td className="p-3 border-b border-slate-100">3</td>
-                                                                            <td className="p-3 border-b border-slate-100">1996</td>
-                                                                            <td className="p-3 border-b border-slate-100">Jonathan Tah</td>
-                                                                        </tr>
-
-                                                                        <tr >
-                                                                            <td className="p-3 border-b border-slate-100">4</td>
-                                                                            <td className="p-3 border-b border-slate-100">1996</td>
-                                                                            <td className="p-3 border-b border-slate-100">Jonathan Tah</td>
-                                                                        </tr>
-
-                                                                        <tr >
-                                                                            <td className="p-3 border-b border-slate-100">5</td>
-                                                                            <td className="p-3 border-b border-slate-100">1996</td>
-                                                                            <td className="p-3 border-b border-slate-100">Jonathan Tah</td>
-                                                                        </tr>
-
-                                                                        <tr >
-                                                                            <td className="p-3 border-b border-slate-100">6</td>
-                                                                            <td className="p-3 border-b border-slate-100">1996</td>
-                                                                            <td className="p-3 border-b border-slate-100">Jonathan Tah</td>
-                                                                        </tr>
-
+                                                                        {teaminfo?.squad?.length > 0 ? teaminfo?.squad?.map((squad, key) =>
+                                                                            <tr key={key}>
+                                                                                <td className="p-3 border-b border-slate-100">{key + 1}</td>
+                                                                                <td className="p-3 border-b border-slate-100">{this.getYearFormDate(squad?.dateOfBirth)}</td>
+                                                                                <td className="p-3 border-b border-slate-100">{squad.name}</td>
+                                                                            </tr>
+                                                                        ) :
+                                                                            <tr className=" text-red-600 text-center font-bold m-20 mx-5">
+                                                                                <td colspan="3" className="p-5" >No players found</td>
+                                                                            </tr>
+                                                                        }
                                                                     </tbody>
                                                                 </table>
                                                             </div>

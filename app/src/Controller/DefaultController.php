@@ -60,5 +60,20 @@ class DefaultController extends AbstractController
         $json = returnJsonFileData($path); // get the data from global function
         $response = returnData($json); // return the response json
         return $response;
-    }    
+    }
+
+    /**
+     * @Route("/api/teaminfo", name="teamInfo")
+     * @return \Symfony\Component\HttpFoundation\JsonResponse
+     */
+    public function teamInfo(Request $request) // get team info list
+    {
+        $id = $request->query->get('id');
+
+        $path = $this->getParameter('app.jsonfilepath') . 'teams/' . $id . '.json'; // file path
+        $json = returnJsonFileData($path); // get the data from global function
+        $response = returnData($json); // return the response json
+        return $response;
+    }
+    
 }
