@@ -8,3 +8,31 @@ body,
 body * {
     font-family: 'Mulish', sans-serif;
 }
+
+
+.scroller::-webkit-scrollbar-thumb {
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	background: transparent;
+	transition: .5s;
+}
+.scroller:hover::-webkit-scrollbar-thumb {
+	background: #b4b8b8;
+}
+.scroller {
+	overflow-y: scroll;
+	scrollbar-color: #000 #fff;
+	scrollbar-width: thin;
+}
+.scroller::-webkit-scrollbar {
+	width: 6px;
+}
+.scroll-team {
+	max-height: calc(100vh - 200px);
+	min-height: calc(100vh - 200px);
+}
+
+.scroll-rightcomp {
+	max-height: calc(100vh - 113px);
+	min-height: calc(100vh - 113px);
+}
