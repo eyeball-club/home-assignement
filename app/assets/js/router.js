@@ -6,6 +6,7 @@ import {
 } from 'react-router-dom';
 import { createBrowserHistory } from "history";
 import Competitions from './components/Pages/Competitions';
+import MatchesList from './components/Pages/MatchesList';
 
 const history = createBrowserHistory();
 
@@ -16,6 +17,7 @@ const routes = (
                 <Redirect to="/competitions" />
             </Route>
             <Route exact path="/competitions" component={Competitions} />
+            <Route exact path="/matchlist/:id" component={MatchesList} />
         </Switch>
     </Router>
 )
