@@ -1,7 +1,18 @@
 import React, { Component } from 'react';
 import { Link } from "react-router-dom";
+import { testList } from '../Datalayer/datalayerUtilities';
 
 class Competitions extends Component {
+
+    constructor() {
+        super();
+        this.state = {};
+    }
+
+    async componentDidMount() {
+        const competitiondata = await testList();
+        console.log(competitiondata)
+    }
 
     render() {
         return (
