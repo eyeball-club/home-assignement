@@ -1,15 +1,15 @@
 // Import the endpoints.
-import { testlist } from '../Configuration/config_url';
+import { competitionslist } from '../Configuration/config_url';
 // Import the axios Method.
 import { getAPI, postAPI, putAPI, deleteAPI } from './axiosMethodCalls';
 
 
-export const testList = async (array) => {
+export const getCompetitionData = async (array) => {
     try {
-        const response = await getAPI(testlist);
+        const response = await getAPI(competitionslist);
         return response.data;
     }
     catch(error){
-        console.log(`url: ${testlist} Axios request failed ${error}`);
+        console.log(`url: ${competitionslist} Axios request failed ${error}`);
     }
 }

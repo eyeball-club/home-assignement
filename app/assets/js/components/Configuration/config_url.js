@@ -1,3 +1,3 @@
 // All Endpoints.
 var mainurl = '/api/';
-export const testlist = `${mainurl}competitionlist`;
+export const competitionslist = `${mainurl}competitionlist`;
