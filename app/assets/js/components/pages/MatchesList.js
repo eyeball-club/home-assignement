@@ -92,7 +92,7 @@ class MatchesList extends Component {
 
                                     {this.state?.matches?.length > 0 ? this.state?.matches?.map(match =>
                                         <div className="bg-white pt-8 p-8 pb-4 drop-shadow-whitebox rounded-whitebox text-center" key={match.id}>
-                                            <div className="grid grid-cols-1 sm:grid-cols-2">
+                                            <div className="grid grid-cols-1 sm:grid-cols-2 relative">
                                                 <div className="sm:mr-8 cursor-pointer" onClick={() => this.getTeamInfo(match?.homeTeam?.id)}>
                                                     <span className="w-24 h-24 overflow-hidden rounded-flagradius inline-flex m-auto text-primary mb-8 items-center justify-center">
                                                         {
