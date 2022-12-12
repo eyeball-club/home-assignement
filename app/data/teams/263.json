@@ -1,0 +1,295 @@
+{
+    "id": 263,
+    "area": {
+        "id": 2224,
+        "name": "Spain"
+    },
+    "activeCompetitions": [
+        {
+            "id": 2014,
+            "area": {
+                "id": 2224,
+                "name": "Spain"
+            },
+            "name": "Primera Division",
+            "code": "PD",
+            "plan": "TIER_ONE",
+            "lastUpdated": "2022-03-20T09:20:08Z"
+        },
+        {
+            "id": 2079,
+            "area": {
+                "id": 2224,
+                "name": "Spain"
+            },
+            "name": "Copa del Rey",
+            "code": "CDR",
+            "plan": "TIER_THREE",
+            "lastUpdated": "2021-04-16T00:00:33Z"
+        }
+    ],
+    "name": "Deportivo Alavés",
+    "shortName": "Alavés",
+    "tla": "ALA",
+    "crestUrl": "https://crests.football-data.org/263.png",
+    "address": "Mendizorroza, Paseo Cervantes, s/n Vitoria 01007",
+    "phone": "+34 (945) 131018",
+    "website": "http://www.alaves.com",
+    "email": "deportivoalavessad@alaves.com",
+    "founded": 1921,
+    "clubColors": "Blue / White",
+    "venue": "Estadio de Mendizorroza",
+    "squad": [
+        {
+            "id": 279,
+            "name": "Tomás Pina",
+            "position": "Midfielder",
+            "dateOfBirth": "1987-10-14T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 3134,
+            "name": "Ximo Navarro",
+            "position": "Defender",
+            "dateOfBirth": "1990-01-23T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 3501,
+            "name": "John Guidetti",
+            "position": "Attacker",
+            "dateOfBirth": "1992-04-15T00:00:00Z",
+            "countryOfBirth": "Sweden",
+            "nationality": "Sweden",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 7586,
+            "name": "Matt Miazga",
+            "position": "Defender",
+            "dateOfBirth": "1995-07-19T00:00:00Z",
+            "countryOfBirth": "United States",
+            "nationality": "United States",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 7660,
+            "name": "Manu García",
+            "position": "Midfielder",
+            "dateOfBirth": "1998-01-02T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 7925,
+            "name": "Florian Lejeune",
+            "position": "Defender",
+            "dateOfBirth": "1991-05-20T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 7938,
+            "name": "Joselu",
+            "position": "Attacker",
+            "dateOfBirth": "1990-03-27T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 15854,
+            "name": "Toni Moya",
+            "position": "Midfielder",
+            "dateOfBirth": "1998-03-20T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 32472,
+            "name": "Saúl",
+            "position": "Defender",
+            "dateOfBirth": "1994-11-09T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 32554,
+            "name": "Manu Vallejo",
+            "position": "Attacker",
+            "dateOfBirth": "1997-02-14T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 32949,
+            "name": "Jason",
+            "position": "Attacker",
+            "dateOfBirth": "1994-07-06T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 33237,
+            "name": "Rubén Duarte",
+            "position": "Defender",
+            "dateOfBirth": "1995-10-18T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 33344,
+            "name": "Gonzalo Escalante",
+            "position": "Midfielder",
+            "dateOfBirth": "1993-03-27T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Argentina",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 33521,
+            "name": "Pere Pons",
+            "position": "Midfielder",
+            "dateOfBirth": "1993-02-20T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 37331,
+            "name": "Loum Ndiaye",
+            "position": "Midfielder",
+            "dateOfBirth": "1996-12-30T00:00:00Z",
+            "countryOfBirth": "Senegal",
+            "nationality": "Senegal",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 39625,
+            "name": "Edgar Méndez",
+            "position": "Attacker",
+            "dateOfBirth": "1990-01-02T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 46123,
+            "name": "Nahuel Tenaglia",
+            "position": "Defender",
+            "dateOfBirth": "1996-02-21T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Argentina",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 50907,
+            "name": "Luis Rioja",
+            "position": "Attacker",
+            "dateOfBirth": "1993-10-16T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 81038,
+            "name": "Miguel",
+            "position": "Attacker",
+            "dateOfBirth": "1999-09-03T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 82120,
+            "name": "Javi López",
+            "position": "Defender",
+            "dateOfBirth": "2002-01-01T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 122506,
+            "name": "Facundo Pellistri",
+            "position": "Attacker",
+            "dateOfBirth": "2001-12-20T00:00:00Z",
+            "countryOfBirth": "Uruguay",
+            "nationality": "Uruguay",
+            "shirtNumber": 10,
+            "role": "PLAYER"
+        },
+        {
+            "id": 170056,
+            "name": "Antonio Sivera",
+            "position": null,
+            "dateOfBirth": "1996-08-11T00:00:00Z",
+            "countryOfBirth": null,
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": null
+        },
+        {
+            "id": 170054,
+            "name": "Fernando Pacheco",
+            "position": null,
+            "dateOfBirth": "1992-05-18T00:00:00Z",
+            "countryOfBirth": null,
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": null
+        },
+        {
+            "id": 170052,
+            "name": "Víctor Laguardia",
+            "position": null,
+            "dateOfBirth": "1989-11-05T00:00:00Z",
+            "countryOfBirth": null,
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": null
+        },
+        {
+            "id": 170048,
+            "name": "Martín Aguirregabiria",
+            "position": null,
+            "dateOfBirth": "1996-05-10T00:00:00Z",
+            "countryOfBirth": null,
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": null
+        }
+    ],
+    "lastUpdated": "2022-02-19T08:23:45Z"
+}

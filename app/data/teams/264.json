@@ -1,0 +1,325 @@
+{
+    "id": 264,
+    "area": {
+        "id": 2224,
+        "name": "Spain"
+    },
+    "activeCompetitions": [
+        {
+            "id": 2014,
+            "area": {
+                "id": 2224,
+                "name": "Spain"
+            },
+            "name": "Primera Division",
+            "code": "PD",
+            "plan": "TIER_ONE",
+            "lastUpdated": "2022-03-20T09:20:08Z"
+        },
+        {
+            "id": 2079,
+            "area": {
+                "id": 2224,
+                "name": "Spain"
+            },
+            "name": "Copa del Rey",
+            "code": "CDR",
+            "plan": "TIER_THREE",
+            "lastUpdated": "2021-04-16T00:00:33Z"
+        }
+    ],
+    "name": "Cádiz CF",
+    "shortName": "Cádiz CF",
+    "tla": "CAD",
+    "crestUrl": "https://crests.football-data.org/264.png",
+    "address": "Plaza de Madrid, s/n Cádiz 11010",
+    "phone": "+34 (956) 070165",
+    "website": "http://www.cadizcf.com",
+    "email": "infocadizcf@cadizcf.es",
+    "founded": 1910,
+    "clubColors": "Yellow / Blue",
+    "venue": "Estadio Ramón de Carranza",
+    "squad": [
+        {
+            "id": 103,
+            "name": "Florin Andone",
+            "position": "Attacker",
+            "dateOfBirth": "1993-04-11T00:00:00Z",
+            "countryOfBirth": "Romania",
+            "nationality": "Romania",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 258,
+            "name": "Rubén Sobrino",
+            "position": "Attacker",
+            "dateOfBirth": "1992-06-01T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 7701,
+            "name": "Oussama Idrissi",
+            "position": "Attacker",
+            "dateOfBirth": "1996-02-26T00:00:00Z",
+            "countryOfBirth": "Netherlands",
+            "nationality": "Morocco",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 15953,
+            "name": "Álvaro Negredo",
+            "position": "Attacker",
+            "dateOfBirth": "1985-08-20T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 21515,
+            "name": "Juan Cala",
+            "position": "Defender",
+            "dateOfBirth": "1989-11-26T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 23683,
+            "name": "Tomás Alarcón",
+            "position": "Midfielder",
+            "dateOfBirth": "1999-01-19T00:00:00Z",
+            "countryOfBirth": "Chile",
+            "nationality": "Chile",
+            "shirtNumber": 2,
+            "role": "PLAYER"
+        },
+        {
+            "id": 28384,
+            "name": "Alfonso Espino",
+            "position": "Defender",
+            "dateOfBirth": "1992-01-05T00:00:00Z",
+            "countryOfBirth": "Uruguay",
+            "nationality": "Uruguay",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 30105,
+            "name": "Jens Jønsson",
+            "position": "Defender",
+            "dateOfBirth": "1993-01-10T00:00:00Z",
+            "countryOfBirth": "Denmark",
+            "nationality": "Denmark",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 31942,
+            "name": "Isaac Valencia",
+            "position": "Defender",
+            "dateOfBirth": "1993-04-23T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 32130,
+            "name": "Fede San Emeterio",
+            "position": "Midfielder",
+            "dateOfBirth": "1997-03-16T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 32316,
+            "name": "José Mari",
+            "position": "Midfielder",
+            "dateOfBirth": "1987-12-06T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 32330,
+            "name": "Salva Sánchez",
+            "position": "Attacker",
+            "dateOfBirth": "1991-03-30T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 32338,
+            "name": "Álex",
+            "position": "Midfielder",
+            "dateOfBirth": "1992-10-15T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 32345,
+            "name": "David Gil",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1994-01-11T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 32409,
+            "name": "Carlos Akapo",
+            "position": "Defender",
+            "dateOfBirth": "1993-03-12T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Equatorial Guinea",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 32483,
+            "name": "Anthony Lozano",
+            "position": "Attacker",
+            "dateOfBirth": "1993-04-25T00:00:00Z",
+            "countryOfBirth": "Honduras",
+            "nationality": "Honduras",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 32485,
+            "name": "Fali Jiménez",
+            "position": "Defender",
+            "dateOfBirth": "1993-08-12T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 32562,
+            "name": "Alberto Perea",
+            "position": "Attacker",
+            "dateOfBirth": "1990-12-19T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 32643,
+            "name": "Rubén Alcaraz",
+            "position": "Midfielder",
+            "dateOfBirth": "1991-05-01T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 32808,
+            "name": "Luis Hernández",
+            "position": "Defender",
+            "dateOfBirth": "1989-04-14T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 33351,
+            "name": "Iván Alejo Peralta",
+            "position": "Midfielder",
+            "dateOfBirth": "1995-02-10T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 45996,
+            "name": "Jeremías Ledesma",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1993-02-13T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Argentina",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 49388,
+            "name": "Varazdat Haroyan",
+            "position": "Defender",
+            "dateOfBirth": "1992-08-24T00:00:00Z",
+            "countryOfBirth": "Armenia",
+            "nationality": "Armenia",
+            "shirtNumber": 3,
+            "role": "PLAYER"
+        },
+        {
+            "id": 103091,
+            "name": "Santiago Arzamendia",
+            "position": "Defender",
+            "dateOfBirth": "1998-05-05T00:00:00Z",
+            "countryOfBirth": "Paraguay",
+            "nationality": "Paraguay",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 151557,
+            "name": "Víctor Chust",
+            "position": "Defender",
+            "dateOfBirth": "2000-03-05T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 171873,
+            "name": "Ivan Chapela",
+            "position": null,
+            "dateOfBirth": "1999-05-21T00:00:00Z",
+            "countryOfBirth": null,
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": null
+        },
+        {
+            "id": 170047,
+            "name": "Lucas Pérez",
+            "position": null,
+            "dateOfBirth": "1988-09-10T00:00:00Z",
+            "countryOfBirth": null,
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": null
+        },
+        {
+            "id": 169196,
+            "name": "Alvaro Bastida",
+            "position": null,
+            "dateOfBirth": null,
+            "countryOfBirth": null,
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": null
+        }
+    ],
+    "lastUpdated": "2022-02-19T08:55:59Z"
+}

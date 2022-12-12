@@ -1,0 +1,34 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+	<table class="table table-striped ">
+		<thead>
+			<h2 class="d-flex justify-content-center mt-3">Teams</h2>
+			<tr>
+			    <th scope="col">No</th>
+                <th scope="col">TeamName</th>
+				<th scope="col">Logo</th>
+				<th scope="col">Website</th>
+				<th scope="col">Email</th>
+				<th scope="col">View</th>
+            </tr>
+		</thead>
+		<tbody>
+			{% for key, team in teams %}
+			{% set counter = ( counter | default(0) ) + 1 %}
+				<tr>
+				    <td> {{counter}}</td>
+					<th scope="row">{{team.name}}</th>
+					<td><img src="{{team.crestUrl}}" width="50" height="50"></td>
+					<td>{{team.website}}</td>
+					<td>{{team.email}}</td>
+					<td>
+                    <a href="{{url('player',{id:team.id})}}" class='btn btn-info'>View Player</a>
+				  </td>
+				</tr>
+			{% endfor %}
+
+		</tbody>
+	</table>
+{% endblock %}
+

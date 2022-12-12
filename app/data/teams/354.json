@@ -1,0 +1,305 @@
+{
+    "id": 354,
+    "area": {
+        "id": 2072,
+        "name": "England"
+    },
+    "activeCompetitions": [
+        {
+            "id": 2021,
+            "area": {
+                "id": 2072,
+                "name": "England"
+            },
+            "name": "Premier League",
+            "code": "PL",
+            "plan": "TIER_ONE",
+            "lastUpdated": "2022-03-20T08:58:54Z"
+        },
+        {
+            "id": 2139,
+            "area": {
+                "id": 2072,
+                "name": "England"
+            },
+            "name": "Football League Cup",
+            "code": "FLC",
+            "plan": "TIER_THREE",
+            "lastUpdated": "2022-03-20T10:14:47Z"
+        }
+    ],
+    "name": "Crystal Palace FC",
+    "shortName": "Crystal Palace",
+    "tla": "CRY",
+    "crestUrl": "https://crests.football-data.org/354.png",
+    "address": "Whitehorse Lane London SE25 6PU",
+    "phone": "+44 (020) 87686000",
+    "website": "http://www.cpfc.co.uk",
+    "email": "info@cpfc.co.uk",
+    "founded": 1905,
+    "clubColors": "Red / Blue",
+    "venue": "Selhurst Park",
+    "squad": [
+        {
+            "id": 641,
+            "name": "Jean-Philippe Mateta",
+            "position": "Attacker",
+            "dateOfBirth": "1997-06-28T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 2253,
+            "name": "Joachim Andersen",
+            "position": "Defender",
+            "dateOfBirth": "1996-05-31T00:00:00Z",
+            "countryOfBirth": "Denmark",
+            "nationality": "Denmark",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 3121,
+            "name": "Vicente Guaita",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1987-01-10T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 3308,
+            "name": "Jack Butland",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1993-03-10T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 3439,
+            "name": "Luka Milivojević",
+            "position": "Midfielder",
+            "dateOfBirth": "1991-04-07T00:00:00Z",
+            "countryOfBirth": "Serbia",
+            "nationality": "Serbia",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 3618,
+            "name": "Cheikhou Kouyaté",
+            "position": "Midfielder",
+            "dateOfBirth": "1989-12-21T00:00:00Z",
+            "countryOfBirth": "Senegal",
+            "nationality": "Senegal",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 4032,
+            "name": "Eberechi Eze",
+            "position": "Midfielder",
+            "dateOfBirth": "1998-06-29T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 6413,
+            "name": "Remi Matthews",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1994-02-10T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 7863,
+            "name": "Nathaniel Clyne",
+            "position": "Defender",
+            "dateOfBirth": "1991-04-05T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 7984,
+            "name": "Jordan Ayew",
+            "position": "Attacker",
+            "dateOfBirth": "1991-09-11T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "Ghana",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8029,
+            "name": "Nathan Ferguson",
+            "position": "Midfielder",
+            "dateOfBirth": "2000-10-06T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8124,
+            "name": "Will Hughes",
+            "position": "Midfielder",
+            "dateOfBirth": "1995-04-17T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8141,
+            "name": "Joel Ward",
+            "position": "Defender",
+            "dateOfBirth": "1989-10-29T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8143,
+            "name": "Martin Kelly",
+            "position": "Defender",
+            "dateOfBirth": "1990-04-27T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8144,
+            "name": "James Tomkins",
+            "position": "Defender",
+            "dateOfBirth": "1989-03-29T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8145,
+            "name": "Jeffrey Schlupp",
+            "position": "Defender",
+            "dateOfBirth": "1992-12-23T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Ghana",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8147,
+            "name": "Jaïro Riedewald",
+            "position": "Defender",
+            "dateOfBirth": "1996-09-09T00:00:00Z",
+            "countryOfBirth": "Netherlands",
+            "nationality": "Netherlands",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8152,
+            "name": "James McArthur",
+            "position": "Midfielder",
+            "dateOfBirth": "1987-10-07T00:00:00Z",
+            "countryOfBirth": "Scotland",
+            "nationality": "Scotland",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8162,
+            "name": "Wilfried Zaha",
+            "position": "Attacker",
+            "dateOfBirth": "1992-11-10T00:00:00Z",
+            "countryOfBirth": "Côte d’Ivoire",
+            "nationality": "Cote d'Ivoire",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8164,
+            "name": "Christian Benteke",
+            "position": "Attacker",
+            "dateOfBirth": "1990-12-03T00:00:00Z",
+            "countryOfBirth": "Congo DR",
+            "nationality": "Belgium",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 16077,
+            "name": "Odsonne Edouard",
+            "position": "Attacker",
+            "dateOfBirth": "1998-01-16T00:00:00Z",
+            "countryOfBirth": "French Guiana",
+            "nationality": "France",
+            "shirtNumber": 22,
+            "role": "PLAYER"
+        },
+        {
+            "id": 113765,
+            "name": "Michael Olise",
+            "position": "Midfielder",
+            "dateOfBirth": "2001-12-12T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 118489,
+            "name": "Marc Guéhi",
+            "position": "Defender",
+            "dateOfBirth": "2000-07-13T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 119265,
+            "name": "Conor Gallagher",
+            "position": "Midfielder",
+            "dateOfBirth": "2000-02-06T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 137068,
+            "name": "Tyrick Mitchell",
+            "position": "Defender",
+            "dateOfBirth": "1999-09-01T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 170282,
+            "name": "Jaroslaw Jach",
+            "position": null,
+            "dateOfBirth": "1994-02-17T00:00:00Z",
+            "countryOfBirth": null,
+            "nationality": "Poland",
+            "shirtNumber": null,
+            "role": null
+        }
+    ],
+    "lastUpdated": "2022-02-10T19:22:36Z"
+}

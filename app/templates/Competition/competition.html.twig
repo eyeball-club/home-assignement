@@ -1,0 +1,40 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+	<table class="table table-striped mx-auto">
+		<thead>
+			<h4 class="d-flex justify-content-center mt-3">All Competitions Details</h4>
+			<tr>
+                <th scope="col">No</th>
+				<th scope="col">Competition Name</th>
+				<th scope="col">Year</th>
+				<th scope="col">Logo</th>
+				<th scope="col">Number Of seasons</th>
+				<th scope="col">Code</th>
+				<th scope="col">View</th>
+
+			</tr>
+		</thead>
+		<tbody class="mt-10">
+			{% for key, competition in competitions %}
+			{% set counter = ( counter | default(0) ) + 1 %}
+				<tr>
+                    <td> {{ counter}}</td>
+					<th scope="row">{{competition.name}}</th>
+					<td>{{competition.id}}</td>
+					<td><img src="{{competition.emblemUrl}}" width="50" height="50"></td>
+					<td>{{competition.numberOfAvailableSeasons}}</td>
+					<td>{{competition.code}}</td>
+
+
+					<td>
+						<a href="{{url('team',{id:competition.id})}}" class='btn btn-info'>View Team</a>
+						<a href="{{url('match',{id:competition.id})}}" class='btn btn-info'>View Match</a>
+
+					</td>
+				</tr>
+			{% endfor %}
+
+		</tbody>
+	</table>
+{% endblock %}

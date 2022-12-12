@@ -1,0 +1,355 @@
+{
+    "id": 346,
+    "area": {
+        "id": 2072,
+        "name": "England"
+    },
+    "activeCompetitions": [
+        {
+            "id": 2021,
+            "area": {
+                "id": 2072,
+                "name": "England"
+            },
+            "name": "Premier League",
+            "code": "PL",
+            "plan": "TIER_ONE",
+            "lastUpdated": "2022-03-20T08:58:54Z"
+        },
+        {
+            "id": 2139,
+            "area": {
+                "id": 2072,
+                "name": "England"
+            },
+            "name": "Football League Cup",
+            "code": "FLC",
+            "plan": "TIER_THREE",
+            "lastUpdated": "2022-03-20T10:14:47Z"
+        }
+    ],
+    "name": "Watford FC",
+    "shortName": "Watford",
+    "tla": "WAT",
+    "crestUrl": "https://crests.football-data.org/346.svg",
+    "address": "Vicarage Road Watford WD18 0ER",
+    "phone": null,
+    "website": "http://www.watfordfc.com",
+    "email": "yourvoice@watfordfc.com",
+    "founded": 1881,
+    "clubColors": "Yellow / Black",
+    "venue": "Vicarage Road Stadium",
+    "squad": [
+        {
+            "id": 822,
+            "name": "Hassane Kamara",
+            "position": "Midfielder",
+            "dateOfBirth": "1994-03-05T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "Cote d'Ivoire",
+            "shirtNumber": 13,
+            "role": "PLAYER"
+        },
+        {
+            "id": 1865,
+            "name": "Adam Masina",
+            "position": "Defender",
+            "dateOfBirth": "1994-01-02T00:00:00Z",
+            "countryOfBirth": "Morocco",
+            "nationality": "Morocco",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 2117,
+            "name": "Samir",
+            "position": "Defender",
+            "dateOfBirth": "1994-12-05T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 2281,
+            "name": "Nicolas N'Koulou",
+            "position": "Defender",
+            "dateOfBirth": "1990-03-27T00:00:00Z",
+            "countryOfBirth": "Cameroon",
+            "nationality": "Cameroon",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 2402,
+            "name": "Francisco Sierralta",
+            "position": "Defender",
+            "dateOfBirth": "1997-05-06T00:00:00Z",
+            "countryOfBirth": "Chile",
+            "nationality": "Chile",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 3319,
+            "name": "Danny Rose",
+            "position": "Defender",
+            "dateOfBirth": "1990-07-02T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 3381,
+            "name": "William Troost-Ekong",
+            "position": "Defender",
+            "dateOfBirth": "1993-09-01T00:00:00Z",
+            "countryOfBirth": "Netherlands",
+            "nationality": "Nigeria",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 3500,
+            "name": "Ken Sema",
+            "position": "Midfielder",
+            "dateOfBirth": "1993-09-30T00:00:00Z",
+            "countryOfBirth": "Sweden",
+            "nationality": "Sweden",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 3638,
+            "name": "Ismaïla Sarr",
+            "position": "Attacker",
+            "dateOfBirth": "1998-02-25T00:00:00Z",
+            "countryOfBirth": "Senegal",
+            "nationality": "Senegal",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 4074,
+            "name": "Ashley Fletcher",
+            "position": "Attacker",
+            "dateOfBirth": "1995-10-02T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 7912,
+            "name": "Rob Elliot",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1986-04-30T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "Ireland",
+            "shirtNumber": 21,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8001,
+            "name": "Moussa Sissoko",
+            "position": "Midfielder",
+            "dateOfBirth": "1989-08-16T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8009,
+            "name": "Ben Foster",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1983-04-03T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8105,
+            "name": "Daniel Bachmann",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1994-07-09T00:00:00Z",
+            "countryOfBirth": "Austria",
+            "nationality": "Austria",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8107,
+            "name": "Craig Cathcart",
+            "position": "Defender",
+            "dateOfBirth": "1989-02-06T00:00:00Z",
+            "countryOfBirth": "Northern Ireland",
+            "nationality": "Northern Ireland",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8111,
+            "name": "Christian Kabasele",
+            "position": "Defender",
+            "dateOfBirth": "1991-02-24T00:00:00Z",
+            "countryOfBirth": "Congo DR",
+            "nationality": "Belgium",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8122,
+            "name": "Tom Cleverley",
+            "position": "Midfielder",
+            "dateOfBirth": "1989-08-12T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8125,
+            "name": "Femenía Far",
+            "position": "Defender",
+            "dateOfBirth": "1991-02-02T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8243,
+            "name": "Dan Gosling",
+            "position": "Midfielder",
+            "dateOfBirth": "1990-02-01T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8252,
+            "name": "Joshua King",
+            "position": "Attacker",
+            "dateOfBirth": "1992-01-15T00:00:00Z",
+            "countryOfBirth": "Norway",
+            "nationality": "Norway",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8854,
+            "name": "Edo Kayembe",
+            "position": "Midfielder",
+            "dateOfBirth": "1998-06-03T00:00:00Z",
+            "countryOfBirth": "Congo DR",
+            "nationality": "DR Congo",
+            "shirtNumber": 39,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8894,
+            "name": "Emmanuel Dennis",
+            "position": "Attacker",
+            "dateOfBirth": "1997-11-15T00:00:00Z",
+            "countryOfBirth": "Nigeria",
+            "nationality": "Nigeria",
+            "shirtNumber": 42,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8920,
+            "name": "Samuel Kalu",
+            "position": "Attacker",
+            "dateOfBirth": "1998-08-26T00:00:00Z",
+            "countryOfBirth": "Nigeria",
+            "nationality": "Nigeria",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 30307,
+            "name": "Juraj Kucka",
+            "position": "Midfielder",
+            "dateOfBirth": "1987-02-26T00:00:00Z",
+            "countryOfBirth": "Slovakia",
+            "nationality": "Slovakia",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 32415,
+            "name": "Cucho Hernández",
+            "position": "Attacker",
+            "dateOfBirth": "1999-04-20T00:00:00Z",
+            "countryOfBirth": "Colombia",
+            "nationality": "Colombia",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 99830,
+            "name": "Imran Louza",
+            "position": "Midfielder",
+            "dateOfBirth": "1999-05-01T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "Morocco",
+            "shirtNumber": 26,
+            "role": "PLAYER"
+        },
+        {
+            "id": 103125,
+            "name": "João Pedro",
+            "position": "Attacker",
+            "dateOfBirth": "2001-09-26T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 131893,
+            "name": "Kwadwo Baah",
+            "position": "Attacker",
+            "dateOfBirth": "2003-01-27T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 137657,
+            "name": "Jeremy Ngakia",
+            "position": "Defender",
+            "dateOfBirth": "2000-09-07T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 156794,
+            "name": "Yaser Asprilla",
+            "position": "Midfielder",
+            "dateOfBirth": null,
+            "countryOfBirth": "Colombia",
+            "nationality": "Colombia",
+            "shirtNumber": null,
+            "role": null
+        },
+        {
+            "id": 170283,
+            "name": "Peter Etebo",
+            "position": null,
+            "dateOfBirth": "1995-11-09T00:00:00Z",
+            "countryOfBirth": null,
+            "nationality": "Nigeria",
+            "shirtNumber": null,
+            "role": null
+        }
+    ],
+    "lastUpdated": "2020-11-26T02:16:48Z"
+}

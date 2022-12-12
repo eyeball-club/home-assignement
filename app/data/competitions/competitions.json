@@ -1,0 +1,90 @@
+{
+  "count": 4,
+  "filters": {},
+  "competitions": [
+    {
+      "id": 2002,
+      "area": {
+        "id": 2088,
+        "name": "Germany",
+        "countryCode": "DEU",
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg"
+      },
+      "name": "Bundesliga",
+      "code": "BL1",
+      "emblemUrl": "https://crests.football-data.org/BL1.png",
+      "currentSeason": {
+        "id": 742,
+        "startDate": "2021-08-13",
+        "endDate": "2022-05-14",
+        "currentMatchday": 28,
+        "winner": null
+      },
+      "numberOfAvailableSeasons": 59,
+      "lastUpdated": "2022-03-20T08:52:53Z"
+    },
+    {
+      "id": 2014,
+      "area": {
+        "id": 2224,
+        "name": "Spain",
+        "countryCode": "ESP",
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg"
+      },
+      "name": "Primera Division",
+      "code": "PD",
+      "emblemUrl": "https://crests.football-data.org/PD.png",
+      "currentSeason": {
+        "id": 380,
+        "startDate": "2021-08-13",
+        "endDate": "2022-05-22",
+        "currentMatchday": 30,
+        "winner": null
+      },
+      "numberOfAvailableSeasons": 89,
+      "lastUpdated": "2022-03-20T09:20:08Z"
+    },
+    {
+      "id": 2015,
+      "area": {
+        "id": 2081,
+        "name": "France",
+        "countryCode": "FRA",
+        "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg"
+      },
+      "name": "Ligue 1",
+      "code": "FL1",
+      "emblemUrl": "https://crests.football-data.org/FL1.png",
+      "currentSeason": {
+        "id": 746,
+        "startDate": "2021-08-06",
+        "endDate": "2022-05-21",
+        "currentMatchday": 30,
+        "winner": null
+      },
+      "numberOfAvailableSeasons": 78,
+      "lastUpdated": "2022-03-20T09:30:02Z"
+    },
+    {
+      "id": 2021,
+      "area": {
+        "id": 2072,
+        "name": "England",
+        "countryCode": "ENG",
+        "ensignUrl": "https://crests.football-data.org/770.svg"
+      },
+      "name": "Premier League",
+      "code": "PL",
+      "emblemUrl": "https://crests.football-data.org/PL.png",
+      "currentSeason": {
+        "id": 733,
+        "startDate": "2021-08-13",
+        "endDate": "2022-05-22",
+        "currentMatchday": 31,
+        "winner": null
+      },
+      "numberOfAvailableSeasons": 123,
+      "lastUpdated": "2022-03-20T08:58:54Z"
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+{
+    "id": 341,
+    "area": {
+        "id": 2072,
+        "name": "England"
+    },
+    "activeCompetitions": [
+        {
+            "id": 2021,
+            "area": {
+                "id": 2072,
+                "name": "England"
+            },
+            "name": "Premier League",
+            "code": "PL",
+            "plan": "TIER_ONE",
+            "lastUpdated": "2022-03-20T08:58:54Z"
+        },
+        {
+            "id": 2139,
+            "area": {
+                "id": 2072,
+                "name": "England"
+            },
+            "name": "Football League Cup",
+            "code": "FLC",
+            "plan": "TIER_THREE",
+            "lastUpdated": "2022-03-20T10:14:47Z"
+        }
+    ],
+    "name": "Leeds United FC",
+    "shortName": "Leeds United",
+    "tla": "LEE",
+    "crestUrl": "https://crests.football-data.org/341.png",
+    "address": "Elland Road Leeds LS11 0ES",
+    "phone": "+44 (0871) 3341919",
+    "website": "http://www.leedsunited.com",
+    "email": "reception@leedsunited.com",
+    "founded": 1904,
+    "clubColors": "White / Blue",
+    "venue": "Elland Road",
+    "squad": [
+        {
+            "id": 9,
+            "name": "Diego Llorente",
+            "position": "Defender",
+            "dateOfBirth": "1993-08-16T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 3200,
+            "name": "Rodrigo",
+            "position": "Attacker",
+            "dateOfBirth": "1991-03-06T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 4135,
+            "name": "Liam Cooper",
+            "position": "Defender",
+            "dateOfBirth": "1991-08-30T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "Scotland",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 4136,
+            "name": "Luke Ayling",
+            "position": "Defender",
+            "dateOfBirth": "1991-08-25T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 4146,
+            "name": "Pascal Struijk",
+            "position": "Defender",
+            "dateOfBirth": "1999-08-11T00:00:00Z",
+            "countryOfBirth": "Belgium",
+            "nationality": "Netherlands",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 4147,
+            "name": "Kalvin Phillips",
+            "position": "Midfielder",
+            "dateOfBirth": "1995-12-02T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 4148,
+            "name": "Stuart Dallas",
+            "position": "Midfielder",
+            "dateOfBirth": "1991-04-19T00:00:00Z",
+            "countryOfBirth": "Northern Ireland",
+            "nationality": "Northern Ireland",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 4160,
+            "name": "Adam Forshaw",
+            "position": "Midfielder",
+            "dateOfBirth": "1991-10-08T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 4170,
+            "name": "Tyler Roberts",
+            "position": "Attacker",
+            "dateOfBirth": "1999-01-12T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "Wales",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 4220,
+            "name": "Jack Harrison",
+            "position": "Midfielder",
+            "dateOfBirth": "1996-11-20T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 4223,
+            "name": "Patrick Bamford",
+            "position": "Attacker",
+            "dateOfBirth": "1993-09-05T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 7505,
+            "name": "Mateusz Klich",
+            "position": "Midfielder",
+            "dateOfBirth": "1990-06-13T00:00:00Z",
+            "countryOfBirth": "Poland",
+            "nationality": "Poland",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 7974,
+            "name": "Daniel James",
+            "position": "Midfielder",
+            "dateOfBirth": "1997-11-10T00:00:00Z",
+            "countryOfBirth": "Wales",
+            "nationality": "Wales",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 9479,
+            "name": "Robin Koch",
+            "position": "Defender",
+            "dateOfBirth": "1996-07-17T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 33037,
+            "name": "Júnior Firpo",
+            "position": "Defender",
+            "dateOfBirth": "1996-05-10T00:00:00Z",
+            "countryOfBirth": "Dominican Republic",
+            "nationality": "Dominican Republic",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 37428,
+            "name": "Raphinha",
+            "position": "Defender",
+            "dateOfBirth": "1996-12-14T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "shirtNumber": 7,
+            "role": "PLAYER"
+        },
+        {
+            "id": 38579,
+            "name": "Kristoffer Klaesson",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2000-11-27T00:00:00Z",
+            "countryOfBirth": "Norway",
+            "nationality": "Norway",
+            "shirtNumber": 13,
+            "role": "PLAYER"
+        },
+        {
+            "id": 74831,
+            "name": "Illan Meslier",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2000-03-02T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 80308,
+            "name": "Jamie Shackleton",
+            "position": "Midfielder",
+            "dateOfBirth": "1999-10-08T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 80761,
+            "name": "Joe Gelhardt",
+            "position": "Attacker",
+            "dateOfBirth": "2002-05-04T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 82703,
+            "name": "Liam McCarron",
+            "position": "Attacker",
+            "dateOfBirth": "2001-03-07T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "Scotland",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 102193,
+            "name": "Crysencio Summerville",
+            "position": "Attacker",
+            "dateOfBirth": "2001-10-30T00:00:00Z",
+            "countryOfBirth": "Netherlands",
+            "nationality": "Netherlands",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 150797,
+            "name": "Charlie Cresswell",
+            "position": "Defender",
+            "dateOfBirth": "2002-12-07T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 157406,
+            "name": "Sam Greenwood",
+            "position": "Attacker",
+            "dateOfBirth": "2002-01-26T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        }
+    ],
+    "lastUpdated": "2022-02-10T19:27:14Z"
+}

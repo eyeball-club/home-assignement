@@ -1,0 +1,294 @@
+{
+    "id": 518,
+    "area": {
+        "id": 2081,
+        "name": "France"
+    },
+    "activeCompetitions": [
+        {
+            "id": 2015,
+            "area": {
+                "id": 2081,
+                "name": "France"
+            },
+            "name": "Ligue 1",
+            "code": "FL1",
+            "plan": "TIER_ONE",
+            "lastUpdated": "2022-03-20T09:30:02Z"
+        }
+    ],
+    "name": "Montpellier HSC",
+    "shortName": "Montpellier",
+    "tla": "MON",
+    "crestUrl": "https://crests.football-data.org/518.png",
+    "address": "Domaine de Grammont CS 79041 Montpellier 34967",
+    "phone": "+33 (0467) 154600",
+    "website": "http://www.mhscfoot.com",
+    "email": "accueil@mhscfoot.com",
+    "founded": 1970,
+    "clubColors": "Blue / Orange",
+    "venue": "Stade de la Mosson",
+    "squad": [
+        {
+            "id": 852,
+            "name": "Téji Savanier",
+            "position": "Midfielder",
+            "dateOfBirth": "1991-12-22T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 11,
+            "role": "PLAYER"
+        },
+        {
+            "id": 1537,
+            "name": "Thuler",
+            "position": "Defender",
+            "dateOfBirth": "1999-03-10T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 6332,
+            "name": "Stephy Mavididi",
+            "position": "Attacker",
+            "dateOfBirth": "1998-05-31T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8149,
+            "name": "Mamadou Sakho",
+            "position": "Defender",
+            "dateOfBirth": "1990-02-13T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8361,
+            "name": "Valère Germain",
+            "position": "Attacker",
+            "dateOfBirth": "1990-04-17T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 28,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8365,
+            "name": "Dimitry Bertaud",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1998-06-06T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 16,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8373,
+            "name": "Nicolas Cozza",
+            "position": "Defender",
+            "dateOfBirth": "1999-01-08T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8374,
+            "name": "Pedro Mendes",
+            "position": "Defender",
+            "dateOfBirth": "1990-10-01T00:00:00Z",
+            "countryOfBirth": "Switzerland",
+            "nationality": "Portugal",
+            "shirtNumber": 5,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8375,
+            "name": "Ambroise Oyongo",
+            "position": "Defender",
+            "dateOfBirth": "1991-06-22T00:00:00Z",
+            "countryOfBirth": "Cameroon",
+            "nationality": "Cameroon",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8382,
+            "name": "Junior Sambia",
+            "position": "Midfielder",
+            "dateOfBirth": "1996-09-07T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 6,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8431,
+            "name": "Arnaud Souquet",
+            "position": "Midfielder",
+            "dateOfBirth": "1992-02-12T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 2,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8463,
+            "name": "Jordan Ferri",
+            "position": "Midfielder",
+            "dateOfBirth": "1992-03-12T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 12,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8741,
+            "name": "Florent Mollet",
+            "position": "Attacker",
+            "dateOfBirth": "1991-11-19T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 25,
+            "role": "PLAYER"
+        },
+        {
+            "id": 28656,
+            "name": "Mathías Suárez",
+            "position": "Defender",
+            "dateOfBirth": "1996-06-24T00:00:00Z",
+            "countryOfBirth": "Uruguay",
+            "nationality": "Uruguay",
+            "shirtNumber": 22,
+            "role": "PLAYER"
+        },
+        {
+            "id": 30774,
+            "name": "Jonas Omlin",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1994-01-10T00:00:00Z",
+            "countryOfBirth": "Switzerland",
+            "nationality": "Switzerland",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 57610,
+            "name": "Mihajlo Ristić",
+            "position": "Midfielder",
+            "dateOfBirth": "1995-10-31T00:00:00Z",
+            "countryOfBirth": "Bosnia and Herzegovina",
+            "nationality": "Serbia",
+            "shirtNumber": 7,
+            "role": "PLAYER"
+        },
+        {
+            "id": 99962,
+            "name": "Matis Carvalho",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1999-04-28T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "Portugal",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 111539,
+            "name": "Léo Leroy",
+            "position": "Midfielder",
+            "dateOfBirth": "2000-02-14T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 27,
+            "role": "PLAYER"
+        },
+        {
+            "id": 115620,
+            "name": "Gabriel Bares",
+            "position": "Midfielder",
+            "dateOfBirth": "2000-08-29T00:00:00Z",
+            "countryOfBirth": "Switzerland",
+            "nationality": "Switzerland",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 123639,
+            "name": "Béni Makouana",
+            "position": "Attacker",
+            "dateOfBirth": "2002-09-28T00:00:00Z",
+            "countryOfBirth": "Congo",
+            "nationality": "Congo",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 125677,
+            "name": "Joris Chotard",
+            "position": "Midfielder",
+            "dateOfBirth": "2001-09-24T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 13,
+            "role": "PLAYER"
+        },
+        {
+            "id": 131954,
+            "name": "Nicholas Gioacchini",
+            "position": "Attacker",
+            "dateOfBirth": "2000-07-25T00:00:00Z",
+            "countryOfBirth": "United States",
+            "nationality": "United States",
+            "shirtNumber": 7,
+            "role": "PLAYER"
+        },
+        {
+            "id": 156808,
+            "name": "Sepe Elye Wahi",
+            "position": "Attacker",
+            "dateOfBirth": "2003-01-02T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 175784,
+            "name": "Maxime Estève",
+            "position": null,
+            "dateOfBirth": "2002-05-26T00:00:00Z",
+            "countryOfBirth": null,
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": null
+        },
+        {
+            "id": 170403,
+            "name": "Thibault Tamas",
+            "position": null,
+            "dateOfBirth": "2001-02-20T00:00:00Z",
+            "countryOfBirth": null,
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": null
+        },
+        {
+            "id": 170397,
+            "name": "Yanis Guermouche",
+            "position": null,
+            "dateOfBirth": "2001-04-15T00:00:00Z",
+            "countryOfBirth": null,
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": null
+        }
+    ],
+    "lastUpdated": "2022-02-19T08:47:35Z"
+}

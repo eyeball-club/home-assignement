@@ -1,0 +1,294 @@
+{
+    "id": 38,
+    "area": {
+        "id": 2088,
+        "name": "Germany"
+    },
+    "activeCompetitions": [
+        {
+            "id": 2002,
+            "area": {
+                "id": 2088,
+                "name": "Germany"
+            },
+            "name": "Bundesliga",
+            "code": "BL1",
+            "plan": "TIER_ONE",
+            "lastUpdated": "2022-03-20T08:52:53Z"
+        }
+    ],
+    "name": "Arminia Bielefeld",
+    "shortName": "Bielefeld",
+    "tla": "BIE",
+    "crestUrl": "https://crests.football-data.org/38.svg",
+    "address": "Melanchthonstraße 31a Bielefeld 33615",
+    "phone": "+49 (0521) 966110",
+    "website": "http://www.arminia-bielefeld.de",
+    "email": "kontakt@arminia-bielefeld.de",
+    "founded": 1905,
+    "clubColors": "Black / White / Blue",
+    "venue": "SchücoArena Kunstrasenplatz",
+    "squad": [
+        {
+            "id": 161,
+            "name": "Gonzalo Castro",
+            "position": "Midfielder",
+            "dateOfBirth": "1987-06-11T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 400,
+            "name": "Robin Hack",
+            "position": "Midfielder",
+            "dateOfBirth": "1998-08-27T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 518,
+            "name": "Bryan Lasme",
+            "position": "Attacker",
+            "dateOfBirth": "1998-11-14T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 6501,
+            "name": "Alessandro Schöpf",
+            "position": "Midfielder",
+            "dateOfBirth": "1994-02-07T00:00:00Z",
+            "countryOfBirth": "Austria",
+            "nationality": "Austria",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 6958,
+            "name": "Stefan Ortega Moreno",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1992-11-06T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 6975,
+            "name": "Fabian Klos",
+            "position": "Attacker",
+            "dateOfBirth": "1987-12-02T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 6978,
+            "name": "Manuel Prietl",
+            "position": "Attacker",
+            "dateOfBirth": "1991-08-03T00:00:00Z",
+            "countryOfBirth": "Austria",
+            "nationality": "Austria",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8220,
+            "name": "Edimilson Fernandes",
+            "position": "Midfielder",
+            "dateOfBirth": "1996-04-15T00:00:00Z",
+            "countryOfBirth": "Switzerland",
+            "nationality": "Switzerland",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 9198,
+            "name": "Nathan de Medina",
+            "position": "Defender",
+            "dateOfBirth": "1997-10-08T00:00:00Z",
+            "countryOfBirth": "Belgium",
+            "nationality": "Belgium",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 10010,
+            "name": "Janni-Luca Serra",
+            "position": "Attacker",
+            "dateOfBirth": "1998-03-13T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 10697,
+            "name": "Masaya Okugawa",
+            "position": "Attacker",
+            "dateOfBirth": "1996-04-14T00:00:00Z",
+            "countryOfBirth": "Japan",
+            "nationality": "Japan",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 11783,
+            "name": "Stefanos Kapino",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1994-03-18T00:00:00Z",
+            "countryOfBirth": "Greece",
+            "nationality": "Greece",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 30880,
+            "name": "Cédric Brunner",
+            "position": "Defender",
+            "dateOfBirth": "1994-02-17T00:00:00Z",
+            "countryOfBirth": "Switzerland",
+            "nationality": "Switzerland",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 31240,
+            "name": "Joakim Nilsson",
+            "position": "Defender",
+            "dateOfBirth": "1994-02-06T00:00:00Z",
+            "countryOfBirth": "Sweden",
+            "nationality": "Sweden",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 43634,
+            "name": "Guilherme Ramos",
+            "position": "Defender",
+            "dateOfBirth": "1997-08-11T00:00:00Z",
+            "countryOfBirth": "Portugal",
+            "nationality": "Portugal",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 58276,
+            "name": "Sebastian  Vasiliadis",
+            "position": "Midfielder",
+            "dateOfBirth": "1997-10-04T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Greece",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 65445,
+            "name": "Fabian Kunze",
+            "position": "Midfielder",
+            "dateOfBirth": "1998-06-14T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 66095,
+            "name": "Amos Pieper",
+            "position": "Defender",
+            "dateOfBirth": "1998-01-17T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 76711,
+            "name": "Andrés Andrade",
+            "position": "Defender",
+            "dateOfBirth": "1998-10-16T00:00:00Z",
+            "countryOfBirth": "Panama",
+            "nationality": "Panama",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 76869,
+            "name": "George Bello",
+            "position": "Defender",
+            "dateOfBirth": "2002-01-22T00:00:00Z",
+            "countryOfBirth": "Nigeria",
+            "nationality": "United States",
+            "shirtNumber": 21,
+            "role": "PLAYER"
+        },
+        {
+            "id": 80547,
+            "name": "Florian Krüger",
+            "position": "Attacker",
+            "dateOfBirth": "1999-02-13T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 124324,
+            "name": "Patrick Wimmer",
+            "position": "Midfielder",
+            "dateOfBirth": "2001-05-30T00:00:00Z",
+            "countryOfBirth": "Austria",
+            "nationality": "Austria",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 127030,
+            "name": "Burak İnce",
+            "position": "Midfielder",
+            "dateOfBirth": "2004-01-20T00:00:00Z",
+            "countryOfBirth": "Turkey",
+            "nationality": "Turkey",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 170078,
+            "name": "Jacob Barrett Laursen",
+            "position": null,
+            "dateOfBirth": "1994-11-17T00:00:00Z",
+            "countryOfBirth": null,
+            "nationality": "Denmark",
+            "shirtNumber": null,
+            "role": null
+        },
+        {
+            "id": 170074,
+            "name": "Vladislav Cherny",
+            "position": null,
+            "dateOfBirth": "2003-06-21T00:00:00Z",
+            "countryOfBirth": null,
+            "nationality": "Russia",
+            "shirtNumber": null,
+            "role": null
+        },
+        {
+            "id": 170073,
+            "name": "Arne Schulz",
+            "position": null,
+            "dateOfBirth": "2003-03-23T00:00:00Z",
+            "countryOfBirth": null,
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": null
+        }
+    ],
+    "lastUpdated": "2021-02-15T17:32:29Z"
+}

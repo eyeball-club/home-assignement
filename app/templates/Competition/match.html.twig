@@ -1,0 +1,27 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+	<table class="table table-striped">
+		<thead>
+			<h2 class="d-flex justify-content-center mt-3">Matches</h2>
+			<tr>
+			    <th>No</th>
+				<th scope="col">Away Team</th>
+				<th>HomeTeam</th>
+				<th>Status</th>
+			</tr>
+		</thead>
+		<tbody>
+			{% for key, match in matches %}
+			{% set counter = ( counter | default(0) ) + 1 %}
+				<tr>
+				    <td> {{counter}}</td>
+					<th scope="row">{{match.awayTeam.name}}</th>
+					<td>{{match.homeTeam.name}}</td>
+					<td>{{match.status}}</td>
+				</tr>
+			{% endfor %}
+
+		</tbody>
+	</table>
+{% endblock %}

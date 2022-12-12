@@ -1,0 +1,32 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+	<table class="table table-striped">
+		<thead>
+			<h2 class="d-flex justify-content-center mt-3">Players List</h2>
+			<tr>
+                <th>No</th>
+				<th scope="col">Player Name</th>
+				<th>Date Of Birth</th>
+				<th>Position</th>
+				<th>Nationality</th>
+
+			</tr>
+		</thead>
+		<tbody>
+			{% for key, player in players %}
+			{% set counter = ( counter | default(0) ) + 1 %}
+                <tr>
+				    <td>{{counter}}</td>
+					<th scope="row">{{player.name}}</th>
+				    <td>{{ player.dateOfBirth|date("m/d/Y", false) }}</td>
+					<td>{{player.position}}</td>
+					<td>{{player.nationality}}</td>
+                </tr>
+			{% endfor %}
+
+		</tbody>
+	</table>
+	
+{% endblock %}
+
