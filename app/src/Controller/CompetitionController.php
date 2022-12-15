@@ -6,28 +6,30 @@ use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
 use Symfony\Component\HttpFoundation\Response;
 use Symfony\Component\Routing\Annotation\Route;
 use Symfony\Component\HttpFoundation\Request;
+use App\Service\CompetitionManagementService;
 
 class CompetitionController extends AbstractController
 {
+	public function __construct(
+		private readonly CompetitionManagementService $CompetitionManagementService,
+	){}
+
 	#[Route('/competitions', name: 'competition')]
 	public function competition(): Response
-	{
+    {
 		$filepath    = $this->getParameter('kernel.project_dir') . '/data/competitions/competitions.json';
-		$json_string = file_get_contents($filepath);
-		$competitions = json_decode($json_string, true);
-
+		$competitions = $this->CompetitionManagementService->getCompetitions($filepath);
+	
 		return $this->render('Competition/competition.html.twig', ['competitions' => $competitions['competitions']]);
-	}
+    }
 
 	#[Route('/competitions/team/{id}', name: 'team')]
 	public function team(Request $request): Response
 	{
-
 		$id = $request->get('id');
 		$filepath = $this->getParameter('kernel.project_dir') . '/data/competitions/teams/' . $id . '.json';
-		$json_string = file_get_contents($filepath);
-		$teams = json_decode($json_string, true);
-
+		$teams = $this->CompetitionManagementService->getCompetitions($filepath);
+		
 		return $this->render('Competition/team.html.twig', ['teams' => $teams['teams']]);
 	}
 
@@ -36,8 +38,7 @@ class CompetitionController extends AbstractController
 	{
 		$id = $request->get('id');
 		$filepath = $this->getParameter('kernel.project_dir') . '/data/competitions/matches/' . $id . '.json';
-		$json_string = file_get_contents($filepath);
-		$matches = json_decode($json_string, true);
+		$matches = $this->CompetitionManagementService->getCompetitions($filepath);
 
 		return $this->render('Competition/match.html.twig', ['matches' => $matches['matches']]);
 	}
@@ -47,9 +48,8 @@ class CompetitionController extends AbstractController
 	{
 		$id = $request->get('id');
 		$filepath = $this->getParameter('kernel.project_dir') . '/data/teams/' . $id . '.json';
-		$json_string = file_get_contents($filepath);
-		$teamplayers = json_decode($json_string, true);
-
+		$teamplayers = $this->CompetitionManagementService->getCompetitions($filepath);
+		
 		return $this->render('Competition/player.html.twig', ['players' => $teamplayers['squad']]);
 	}
 }
