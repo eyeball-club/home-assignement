@@ -1,0 +1,305 @@
+{
+    "id": 89,
+    "area": {
+        "id": 2224,
+        "name": "Spain"
+    },
+    "activeCompetitions": [
+        {
+            "id": 2014,
+            "area": {
+                "id": 2224,
+                "name": "Spain"
+            },
+            "name": "Primera Division",
+            "code": "PD",
+            "plan": "TIER_ONE",
+            "lastUpdated": "2022-03-20T09:20:08Z"
+        },
+        {
+            "id": 2079,
+            "area": {
+                "id": 2224,
+                "name": "Spain"
+            },
+            "name": "Copa del Rey",
+            "code": "CDR",
+            "plan": "TIER_THREE",
+            "lastUpdated": "2021-04-16T00:00:33Z"
+        }
+    ],
+    "name": "RCD Mallorca",
+    "shortName": "Mallorca",
+    "tla": "MAL",
+    "crestUrl": "https://crests.football-data.org/89.png",
+    "address": "Son Moix, Calle Camí dels Reis, s/n Palma de Mallorca 07011",
+    "phone": "+34 (971) 221221",
+    "website": "http://www.rcdmallorca.es",
+    "email": "prensa@rcdmallorca.es",
+    "founded": 1916,
+    "clubColors": "Red / Black",
+    "venue": "Iberostar Estadi",
+    "squad": [
+        {
+            "id": 55,
+            "name": "Sergio Rico",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1993-09-01T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 2777,
+            "name": "Martin Valjent",
+            "position": "Midfielder",
+            "dateOfBirth": "1995-12-11T00:00:00Z",
+            "countryOfBirth": "Slovakia",
+            "nationality": "Slovakia",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 3120,
+            "name": "Ángel",
+            "position": "Attacker",
+            "dateOfBirth": "1987-04-26T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 3126,
+            "name": "Amath Ndiaye",
+            "position": "Midfielder",
+            "dateOfBirth": "1996-07-16T00:00:00Z",
+            "countryOfBirth": "Senegal",
+            "nationality": "Senegal",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 15885,
+            "name": "Rodrigo Battaglia",
+            "position": "Midfielder",
+            "dateOfBirth": "1991-07-12T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Argentina",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 28585,
+            "name": "Giovanni González",
+            "position": "Defender",
+            "dateOfBirth": "1994-09-20T00:00:00Z",
+            "countryOfBirth": "Uruguay",
+            "nationality": "Uruguay",
+            "shirtNumber": 20,
+            "role": "PLAYER"
+        },
+        {
+            "id": 30059,
+            "name": "Vedat Muriqi",
+            "position": "Attacker",
+            "dateOfBirth": "1994-04-24T00:00:00Z",
+            "countryOfBirth": "Kosovo",
+            "nationality": "Kosovo",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 32282,
+            "name": "Dani Rodríguez",
+            "position": "Midfielder",
+            "dateOfBirth": "1988-06-06T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 32481,
+            "name": "Ruiz de Galarreta",
+            "position": "Midfielder",
+            "dateOfBirth": "1993-08-06T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 32524,
+            "name": "Brian Oliván",
+            "position": "Defender",
+            "dateOfBirth": "1994-04-01T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 32974,
+            "name": "Manolo Reina",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1983-07-30T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 32984,
+            "name": "Antonio Raíllo",
+            "position": "Defender",
+            "dateOfBirth": "1991-10-08T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 33004,
+            "name": "Salva Sevilla",
+            "position": "Midfielder",
+            "dateOfBirth": "1984-03-18T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 33104,
+            "name": "Jaume Costa",
+            "position": "Defender",
+            "dateOfBirth": "1988-03-18T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 33513,
+            "name": "Pablo Maffeo",
+            "position": "Defender",
+            "dateOfBirth": "1997-07-12T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 33681,
+            "name": "Abdón Prats",
+            "position": "Midfielder",
+            "dateOfBirth": "1992-12-07T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 48555,
+            "name": "Takefusa Kubo",
+            "position": "Attacker",
+            "dateOfBirth": "2001-06-04T00:00:00Z",
+            "countryOfBirth": "Japan",
+            "nationality": "Japan",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 62460,
+            "name": "Franco Russo",
+            "position": "Defender",
+            "dateOfBirth": "1994-10-25T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Argentina",
+            "shirtNumber": 22,
+            "role": "PLAYER"
+        },
+        {
+            "id": 64424,
+            "name": "Aleksandar Sedlar",
+            "position": "Midfielder",
+            "dateOfBirth": "1991-12-13T00:00:00Z",
+            "countryOfBirth": "Serbia",
+            "nationality": "Serbia",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 79776,
+            "name": "Dominik Greif",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1997-04-06T00:00:00Z",
+            "countryOfBirth": "Slovakia",
+            "nationality": "Slovakia",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 81393,
+            "name": "Iddrisu Baba",
+            "position": "Midfielder",
+            "dateOfBirth": "1996-01-22T00:00:00Z",
+            "countryOfBirth": "Ghana",
+            "nationality": "Ghana",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 98169,
+            "name": "Antonio Sánchez",
+            "position": "Midfielder",
+            "dateOfBirth": "1997-01-01T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 98673,
+            "name": "Lee Kangin",
+            "position": "Midfielder",
+            "dateOfBirth": "2001-02-19T00:00:00Z",
+            "countryOfBirth": "Korea Republic",
+            "nationality": "Korea, South",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 137997,
+            "name": "Fernando Niño",
+            "position": "Attacker",
+            "dateOfBirth": "2000-10-24T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 150717,
+            "name": "Matthew Hoppe",
+            "position": "Attacker",
+            "dateOfBirth": "2001-03-13T00:00:00Z",
+            "countryOfBirth": "United States",
+            "nationality": "United States",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 172628,
+            "name": "Leo Román",
+            "position": null,
+            "dateOfBirth": "2000-07-06T00:00:00Z",
+            "countryOfBirth": null,
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": null
+        }
+    ],
+    "lastUpdated": "2022-02-19T08:44:00Z"
+}

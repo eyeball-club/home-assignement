@@ -39,3 +39,7 @@ At Eyeball we use PHP8.1, Symfony6, plain Javascript and React. Database is MySq
 
 To use the provided docker environment, please run ./setup first, then you can use ./compose up to run the stack. If you are on Windows using WSL2 is recommended.
 Feel free to add any services or configuration you need.
+
+## Output Demo Video
+
+https://www.awesomescreenshot.com/video/13238690?key=e86a0b147c89c617866c7bc236eb7e1d

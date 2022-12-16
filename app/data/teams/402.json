@@ -1,0 +1,305 @@
+{
+    "id": 402,
+    "area": {
+        "id": 2072,
+        "name": "England"
+    },
+    "activeCompetitions": [
+        {
+            "id": 2021,
+            "area": {
+                "id": 2072,
+                "name": "England"
+            },
+            "name": "Premier League",
+            "code": "PL",
+            "plan": "TIER_ONE",
+            "lastUpdated": "2022-03-20T08:58:54Z"
+        },
+        {
+            "id": 2139,
+            "area": {
+                "id": 2072,
+                "name": "England"
+            },
+            "name": "Football League Cup",
+            "code": "FLC",
+            "plan": "TIER_THREE",
+            "lastUpdated": "2022-03-20T10:14:47Z"
+        }
+    ],
+    "name": "Brentford FC",
+    "shortName": "Brentford",
+    "tla": "BRF",
+    "crestUrl": "https://crests.football-data.org/402.png",
+    "address": "Braemar Road Brentford TW8 0NT",
+    "phone": null,
+    "website": "http://www.brentfordfc.co.uk",
+    "email": "enquiries@brentfordfc.co.uk",
+    "founded": 1889,
+    "clubColors": "Red / White / Black",
+    "venue": "Griffin Park",
+    "squad": [
+        {
+            "id": 612,
+            "name": "Yoane Wissa",
+            "position": "Attacker",
+            "dateOfBirth": "1996-09-03T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "DR Congo",
+            "shirtNumber": 19,
+            "role": "PLAYER"
+        },
+        {
+            "id": 806,
+            "name": "Julian Jeanvier",
+            "position": "Defender",
+            "dateOfBirth": "1992-03-31T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "Guinea",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 3449,
+            "name": "Jonas Lössl",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1989-02-01T00:00:00Z",
+            "countryOfBirth": "Denmark",
+            "nationality": "Denmark",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 3454,
+            "name": "Mathias Jørgensen",
+            "position": "Defender",
+            "dateOfBirth": "1990-04-23T00:00:00Z",
+            "countryOfBirth": "Denmark",
+            "nationality": "Denmark",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 3459,
+            "name": "Christian Eriksen",
+            "position": "Midfielder",
+            "dateOfBirth": "1992-02-14T00:00:00Z",
+            "countryOfBirth": "Denmark",
+            "nationality": "Denmark",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 3490,
+            "name": "Pontus Jansson",
+            "position": "Defender",
+            "dateOfBirth": "1991-02-13T00:00:00Z",
+            "countryOfBirth": "Sweden",
+            "nationality": "Sweden",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 3813,
+            "name": "Saman Ghoddoos",
+            "position": "Midfielder",
+            "dateOfBirth": "1993-09-06T00:00:00Z",
+            "countryOfBirth": "Sweden",
+            "nationality": "Iran",
+            "shirtNumber": 7,
+            "role": "PLAYER"
+        },
+        {
+            "id": 4334,
+            "name": "Ethan Pinnock",
+            "position": "Defender",
+            "dateOfBirth": "1993-05-29T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "Jamaica",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 4419,
+            "name": "Ellery Balcombe",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1999-10-15T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 4426,
+            "name": "Rico Henry",
+            "position": "Defender",
+            "dateOfBirth": "1997-07-08T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 4437,
+            "name": "Mads Bech Sørensen",
+            "position": "Midfielder",
+            "dateOfBirth": "1999-01-07T00:00:00Z",
+            "countryOfBirth": "Denmark",
+            "nationality": "Denmark",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 4442,
+            "name": "Sergi Canós",
+            "position": "Attacker",
+            "dateOfBirth": "1997-02-02T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 4832,
+            "name": "David Raya",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1995-09-15T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 5453,
+            "name": "Ivan Toney",
+            "position": "Attacker",
+            "dateOfBirth": "1996-03-16T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 6322,
+            "name": "Tariqe Fosu",
+            "position": "Attacker",
+            "dateOfBirth": "1995-11-05T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "Ghana",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 7796,
+            "name": "Josh Dasilva",
+            "position": "Attacker",
+            "dateOfBirth": "1998-10-23T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8626,
+            "name": "Bryan Mbeumo",
+            "position": "Midfielder",
+            "dateOfBirth": "1999-08-07T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 10000,
+            "name": "Vitaly Janelt",
+            "position": "Midfielder",
+            "dateOfBirth": "1998-05-10T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 10194,
+            "name": "Mathias Jensen",
+            "position": "Midfielder",
+            "dateOfBirth": "1996-01-01T00:00:00Z",
+            "countryOfBirth": "Denmark",
+            "nationality": "Denmark",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 15535,
+            "name": "Mads Roerslev",
+            "position": "Defender",
+            "dateOfBirth": "1999-06-24T00:00:00Z",
+            "countryOfBirth": "Denmark",
+            "nationality": "Denmark",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 16068,
+            "name": "Kristoffer Ajer",
+            "position": "Defender",
+            "dateOfBirth": "1998-04-17T00:00:00Z",
+            "countryOfBirth": "Norway",
+            "nationality": "Norway",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 24102,
+            "name": "Christian Nørgaard",
+            "position": "Midfielder",
+            "dateOfBirth": "1994-03-10T00:00:00Z",
+            "countryOfBirth": "Denmark",
+            "nationality": "Denmark",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 24210,
+            "name": "Frank Onyeka",
+            "position": "Midfielder",
+            "dateOfBirth": "1998-01-01T00:00:00Z",
+            "countryOfBirth": "Nigeria",
+            "nationality": "Nigeria",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 56666,
+            "name": "Shandon Baptiste",
+            "position": "Midfielder",
+            "dateOfBirth": "1998-04-08T00:00:00Z",
+            "countryOfBirth": "Grenada",
+            "nationality": "Grenada",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 79533,
+            "name": "Álvaro Fernández",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1998-04-13T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 150067,
+            "name": "Finley Stevens",
+            "position": "Defender",
+            "dateOfBirth": "2003-04-10T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "Wales",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        }
+    ],
+    "lastUpdated": "2022-02-10T19:22:16Z"
+}

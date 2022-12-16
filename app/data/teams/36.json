@@ -1,0 +1,324 @@
+{
+    "id": 36,
+    "area": {
+        "id": 2088,
+        "name": "Germany"
+    },
+    "activeCompetitions": [
+        {
+            "id": 2002,
+            "area": {
+                "id": 2088,
+                "name": "Germany"
+            },
+            "name": "Bundesliga",
+            "code": "BL1",
+            "plan": "TIER_ONE",
+            "lastUpdated": "2022-03-20T08:52:53Z"
+        }
+    ],
+    "name": "VfL Bochum 1848",
+    "shortName": "Bochum",
+    "tla": "BOC",
+    "crestUrl": "https://crests.football-data.org/36.png",
+    "address": "Castroper Straße 145 Bochum 44791",
+    "phone": "+49 (0234) 951848",
+    "website": "http://www.vfl-bochum.de",
+    "email": "info@vfl-bochum.de",
+    "founded": 1849,
+    "clubColors": "Blue / White",
+    "venue": "Vonovia Ruhrstadion",
+    "squad": [
+        {
+            "id": 210,
+            "name": "Simon Zoller",
+            "position": "Attacker",
+            "dateOfBirth": "1991-06-26T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 224,
+            "name": "Eduard Löwen",
+            "position": "Defender",
+            "dateOfBirth": "1997-01-28T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 233,
+            "name": "Tom Weilandt",
+            "position": "Midfielder",
+            "dateOfBirth": "1992-04-27T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 324,
+            "name": "Michael Esser",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1987-11-22T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 372,
+            "name": "Miloš Pantović",
+            "position": "Attacker",
+            "dateOfBirth": "1996-07-07T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Serbia",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 3513,
+            "name": "Cristian Gamboa",
+            "position": "Midfielder",
+            "dateOfBirth": "1989-10-24T00:00:00Z",
+            "countryOfBirth": "Costa Rica",
+            "nationality": "Costa Rica",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 6630,
+            "name": "Gerrit Holtmann",
+            "position": "Midfielder",
+            "dateOfBirth": "1995-03-25T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Philippines",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 6720,
+            "name": "Danny Blum",
+            "position": "Attacker",
+            "dateOfBirth": "1991-01-07T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 6842,
+            "name": "Sebastian Polter",
+            "position": "Attacker",
+            "dateOfBirth": "1991-04-01T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": 9,
+            "role": "PLAYER"
+        },
+        {
+            "id": 7951,
+            "name": "Kostas Stafylidis",
+            "position": "Defender",
+            "dateOfBirth": "1993-12-02T00:00:00Z",
+            "countryOfBirth": "Greece",
+            "nationality": "Greece",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8288,
+            "name": "Jürgen Locadia",
+            "position": "Attacker",
+            "dateOfBirth": "1993-11-07T00:00:00Z",
+            "countryOfBirth": "Netherlands",
+            "nationality": "Netherlands",
+            "shirtNumber": 10,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8874,
+            "name": "Erhan Mašović",
+            "position": "Attacker",
+            "dateOfBirth": "1998-11-22T00:00:00Z",
+            "countryOfBirth": "Serbia",
+            "nationality": "Serbia",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8875,
+            "name": "Saulo Decarli",
+            "position": "Defender",
+            "dateOfBirth": "1992-02-04T00:00:00Z",
+            "countryOfBirth": "Switzerland",
+            "nationality": "Switzerland",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 9408,
+            "name": "Takuma Asano",
+            "position": "Attacker",
+            "dateOfBirth": "1994-11-10T00:00:00Z",
+            "countryOfBirth": "Japan",
+            "nationality": "Japan",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 9432,
+            "name": "Elvis Rexhbecaj",
+            "position": "Midfielder",
+            "dateOfBirth": "1997-11-01T00:00:00Z",
+            "countryOfBirth": "Kosovo",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 9984,
+            "name": "Manuel Riemann",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1988-09-09T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 9990,
+            "name": "Anthony Losilla",
+            "position": "Defender",
+            "dateOfBirth": "1986-03-10T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 9994,
+            "name": "Maxim Leitsch",
+            "position": "Defender",
+            "dateOfBirth": "1998-05-18T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 9996,
+            "name": "Danilo Soares",
+            "position": "Defender",
+            "dateOfBirth": "1991-10-29T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 10001,
+            "name": "Robert Tesche",
+            "position": "Midfielder",
+            "dateOfBirth": "1987-05-27T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 16666,
+            "name": "Vassilios Lambropoulos",
+            "position": "Defender",
+            "dateOfBirth": "1990-03-31T00:00:00Z",
+            "countryOfBirth": "Greece",
+            "nationality": "Greece",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 45586,
+            "name": "Christopher Antwi-Adjei",
+            "position": "Midfielder",
+            "dateOfBirth": "1994-02-07T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Ghana",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 66090,
+            "name": "Herbert Bockhorn",
+            "position": "Defender",
+            "dateOfBirth": "1995-01-31T00:00:00Z",
+            "countryOfBirth": "Uganda",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 66918,
+            "name": "Tarsis Bonga",
+            "position": "Attacker",
+            "dateOfBirth": "1997-01-10T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 111555,
+            "name": "Armel Bella Kotchap",
+            "position": "Attacker",
+            "dateOfBirth": "2001-12-11T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 120962,
+            "name": "Patrick Osterhage",
+            "position": "Midfielder",
+            "dateOfBirth": "2000-02-01T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 140855,
+            "name": "Paul Grave",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2001-04-10T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 157516,
+            "name": "Luis Hartwig",
+            "position": "Attacker",
+            "dateOfBirth": "2002-11-23T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 177312,
+            "name": "Tjark Ernst",
+            "position": null,
+            "dateOfBirth": "2003-03-15T00:00:00Z",
+            "countryOfBirth": null,
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": null
+        }
+    ],
+    "lastUpdated": "2022-02-19T08:39:46Z"
+}

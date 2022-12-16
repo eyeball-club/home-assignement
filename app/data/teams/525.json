@@ -1,0 +1,314 @@
+{
+    "id": 525,
+    "area": {
+        "id": 2081,
+        "name": "France"
+    },
+    "activeCompetitions": [
+        {
+            "id": 2015,
+            "area": {
+                "id": 2081,
+                "name": "France"
+            },
+            "name": "Ligue 1",
+            "code": "FL1",
+            "plan": "TIER_ONE",
+            "lastUpdated": "2022-03-20T09:30:02Z"
+        }
+    ],
+    "name": "FC Lorient",
+    "shortName": "Lorient",
+    "tla": "FCL",
+    "crestUrl": "https://crests.football-data.org/525.png",
+    "address": "Tade Yves Allainmat<br>Rue Du Tour Des Portes, BP 404 Lorient 56104",
+    "phone": "+33 (0297) 351500",
+    "website": "http://www.fclweb.fr",
+    "email": "webmaster@fclweb.fr",
+    "founded": 1926,
+    "clubColors": "Orange / Black",
+    "venue": "Stade Yves Allainmat - Le Moustoir",
+    "squad": [
+        {
+            "id": 414,
+            "name": "Jérôme Hergault",
+            "position": "Defender",
+            "dateOfBirth": "1986-04-05T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 14,
+            "role": "PLAYER"
+        },
+        {
+            "id": 566,
+            "name": "Laurent Abergel",
+            "position": "Defender",
+            "dateOfBirth": "1993-02-01T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 6,
+            "role": "PLAYER"
+        },
+        {
+            "id": 590,
+            "name": "Vincent Le Goff",
+            "position": "Defender",
+            "dateOfBirth": "1989-10-15T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 25,
+            "role": "PLAYER"
+        },
+        {
+            "id": 601,
+            "name": "Fabien Lemoine",
+            "position": "Midfielder",
+            "dateOfBirth": "1987-03-16T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 18,
+            "role": "PLAYER"
+        },
+        {
+            "id": 713,
+            "name": "Julien Laporte",
+            "position": "Midfielder",
+            "dateOfBirth": "1993-11-04T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 15,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8303,
+            "name": "Quentin Boisgard",
+            "position": "Midfielder",
+            "dateOfBirth": "1997-03-17T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 11,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8315,
+            "name": "Matthieu Dreyer",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1989-03-20T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 1,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8453,
+            "name": "Jérémy Morel",
+            "position": "Defender",
+            "dateOfBirth": "1984-04-02T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "Madagascar",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8592,
+            "name": "Thomas Monconduit",
+            "position": "Midfielder",
+            "dateOfBirth": "1991-02-10T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8822,
+            "name": "Armand Lauriente",
+            "position": "Attacker",
+            "dateOfBirth": "1998-12-04T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 16100,
+            "name": "Bonke Innocent",
+            "position": "Midfielder",
+            "dateOfBirth": "1996-01-20T00:00:00Z",
+            "countryOfBirth": "Nigeria",
+            "nationality": "Nigeria",
+            "shirtNumber": 20,
+            "role": "PLAYER"
+        },
+        {
+            "id": 16925,
+            "name": "Paul Nardi",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1994-05-18T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 30,
+            "role": "PLAYER"
+        },
+        {
+            "id": 37968,
+            "name": "Ibrahima Koné",
+            "position": "Attacker",
+            "dateOfBirth": "1999-06-16T00:00:00Z",
+            "countryOfBirth": "Mali",
+            "nationality": "Mali",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 74521,
+            "name": "Houboulang Mendes",
+            "position": "Defender",
+            "dateOfBirth": "1998-05-04T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "Guinea-Bissau",
+            "shirtNumber": 17,
+            "role": "PLAYER"
+        },
+        {
+            "id": 98756,
+            "name": "Teddy Bartouche",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1997-06-05T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 99664,
+            "name": "Enzo Le Fée",
+            "position": "Midfielder",
+            "dateOfBirth": "2000-02-03T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 10,
+            "role": "PLAYER"
+        },
+        {
+            "id": 103003,
+            "name": "Stéphane Diarra",
+            "position": "Midfielder",
+            "dateOfBirth": "1998-12-09T00:00:00Z",
+            "countryOfBirth": "Côte d’Ivoire",
+            "nationality": "Cote d'Ivoire",
+            "shirtNumber": 7,
+            "role": "PLAYER"
+        },
+        {
+            "id": 107128,
+            "name": "Samuel Loric",
+            "position": "Attacker",
+            "dateOfBirth": "2000-07-05T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 111018,
+            "name": "Thomas Callens",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1998-09-06T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 16,
+            "role": "PLAYER"
+        },
+        {
+            "id": 113427,
+            "name": "Terem Moffi",
+            "position": "Attacker",
+            "dateOfBirth": "1999-05-25T00:00:00Z",
+            "countryOfBirth": "Nigeria",
+            "nationality": "Nigeria",
+            "shirtNumber": 20,
+            "role": "PLAYER"
+        },
+        {
+            "id": 116144,
+            "name": "Taofeek Ismaheel",
+            "position": "Attacker",
+            "dateOfBirth": "2000-07-16T00:00:00Z",
+            "countryOfBirth": "Nigeria",
+            "nationality": "Nigeria",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 117813,
+            "name": "Léo Pétrot",
+            "position": "Defender",
+            "dateOfBirth": "1997-04-15T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 153289,
+            "name": "Moritz Jenz",
+            "position": "Defender",
+            "dateOfBirth": "1999-04-30T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 177305,
+            "name": "Dango Ouattara",
+            "position": null,
+            "dateOfBirth": "2002-02-11T00:00:00Z",
+            "countryOfBirth": null,
+            "nationality": "Burkina Faso",
+            "shirtNumber": null,
+            "role": null
+        },
+        {
+            "id": 175866,
+            "name": "Sambou Soumano",
+            "position": null,
+            "dateOfBirth": "2001-01-13T00:00:00Z",
+            "countryOfBirth": null,
+            "nationality": "Senegal",
+            "shirtNumber": null,
+            "role": null
+        },
+        {
+            "id": 172520,
+            "name": "Theo Le Bris",
+            "position": null,
+            "dateOfBirth": "2002-10-01T00:00:00Z",
+            "countryOfBirth": null,
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": null
+        },
+        {
+            "id": 171656,
+            "name": "Redwan Bourles",
+            "position": null,
+            "dateOfBirth": "2003-01-02T00:00:00Z",
+            "countryOfBirth": null,
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": null
+        },
+        {
+            "id": 171397,
+            "name": "Igor Silva",
+            "position": null,
+            "dateOfBirth": "1996-08-21T00:00:00Z",
+            "countryOfBirth": null,
+            "nationality": "Brazil",
+            "shirtNumber": null,
+            "role": null
+        }
+    ],
+    "lastUpdated": "2022-02-19T08:25:01Z"
+}

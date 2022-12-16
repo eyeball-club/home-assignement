@@ -1,0 +1,284 @@
+{
+    "id": 532,
+    "area": {
+        "id": 2081,
+        "name": "France"
+    },
+    "activeCompetitions": [
+        {
+            "id": 2015,
+            "area": {
+                "id": 2081,
+                "name": "France"
+            },
+            "name": "Ligue 1",
+            "code": "FL1",
+            "plan": "TIER_ONE",
+            "lastUpdated": "2022-03-20T09:30:02Z"
+        }
+    ],
+    "name": "Angers SCO",
+    "shortName": "Angers SCO",
+    "tla": "ANG",
+    "crestUrl": "https://crests.football-data.org/532.svg",
+    "address": "73 boulevard Jacques Portet, BP 20212 Angers 49002",
+    "phone": "+33 (0892) 390820",
+    "website": "http://www.angers-sco.fr",
+    "email": null,
+    "founded": 1919,
+    "clubColors": "Black / White / Gold",
+    "venue": "Stade Raymond Kopa",
+    "squad": [
+        {
+            "id": 588,
+            "name": "Danijel Petković",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1993-05-25T00:00:00Z",
+            "countryOfBirth": "Montenegro",
+            "nationality": "Montenegro",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 592,
+            "name": "Jimmy Cabot",
+            "position": "Defender",
+            "dateOfBirth": "1994-04-18T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 27,
+            "role": "PLAYER"
+        },
+        {
+            "id": 722,
+            "name": "Mathias Pereira Lage",
+            "position": "Midfielder",
+            "dateOfBirth": "1996-11-30T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "Portugal",
+            "shirtNumber": 27,
+            "role": "PLAYER"
+        },
+        {
+            "id": 777,
+            "name": "Enzo Ebosse",
+            "position": "Defender",
+            "dateOfBirth": "1999-03-11T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "Cameroon",
+            "shirtNumber": 6,
+            "role": "PLAYER"
+        },
+        {
+            "id": 3706,
+            "name": "Sofiane Boufal",
+            "position": "Midfielder",
+            "dateOfBirth": "1993-09-17T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "Morocco",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 6503,
+            "name": "Nabil Bentaleb",
+            "position": "Midfielder",
+            "dateOfBirth": "1994-11-24T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "Algeria",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8377,
+            "name": "Casimir Ninga",
+            "position": "Midfielder",
+            "dateOfBirth": "1993-05-17T00:00:00Z",
+            "countryOfBirth": "Chad",
+            "nationality": "Chad",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8633,
+            "name": "Anthony Mandrea",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1996-12-25T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8636,
+            "name": "Romain Thomas",
+            "position": "Defender",
+            "dateOfBirth": "1988-06-12T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 24,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8638,
+            "name": "Ismaël Traoré",
+            "position": "Defender",
+            "dateOfBirth": "1986-08-18T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "Cote d'Ivoire",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8640,
+            "name": "Abdoulaye Bamba",
+            "position": "Defender",
+            "dateOfBirth": "1990-04-25T00:00:00Z",
+            "countryOfBirth": "Côte d’Ivoire",
+            "nationality": "Cote d'Ivoire",
+            "shirtNumber": 25,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8643,
+            "name": "Vincent Manceau",
+            "position": "Midfielder",
+            "dateOfBirth": "1989-07-24T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8644,
+            "name": "Thomas Mangani",
+            "position": "Midfielder",
+            "dateOfBirth": "1987-04-29T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 5,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8645,
+            "name": "Pierrick Capelle",
+            "position": "Midfielder",
+            "dateOfBirth": "1987-04-15T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 15,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8648,
+            "name": "Angelo Fulgini",
+            "position": "Midfielder",
+            "dateOfBirth": "1996-08-20T00:00:00Z",
+            "countryOfBirth": "Côte d’Ivoire",
+            "nationality": "France",
+            "shirtNumber": 10,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8792,
+            "name": "Stéphane Bahoken",
+            "position": "Attacker",
+            "dateOfBirth": "1992-05-28T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "Cameroon",
+            "shirtNumber": 19,
+            "role": "PLAYER"
+        },
+        {
+            "id": 10760,
+            "name": "Marin Jakoliš",
+            "position": "Attacker",
+            "dateOfBirth": "1996-12-26T00:00:00Z",
+            "countryOfBirth": "Croatia",
+            "nationality": "Croatia",
+            "shirtNumber": 9,
+            "role": "PLAYER"
+        },
+        {
+            "id": 30877,
+            "name": "Souleymane Doumbia",
+            "position": "Defender",
+            "dateOfBirth": "1996-09-24T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "Cote d'Ivoire",
+            "shirtNumber": 3,
+            "role": "PLAYER"
+        },
+        {
+            "id": 122511,
+            "name": "Azzedine Ounahi",
+            "position": "Midfielder",
+            "dateOfBirth": "2000-04-19T00:00:00Z",
+            "countryOfBirth": "Morocco",
+            "nationality": "Morocco",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 136385,
+            "name": "Zinédine Ould Khaled",
+            "position": "Midfielder",
+            "dateOfBirth": "2000-01-14T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 140251,
+            "name": "Batista Mendy",
+            "position": "Midfielder",
+            "dateOfBirth": "2000-01-12T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 29,
+            "role": "PLAYER"
+        },
+        {
+            "id": 147869,
+            "name": "Waniss Taibi",
+            "position": "Attacker",
+            "dateOfBirth": "2002-03-07T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 26,
+            "role": "PLAYER"
+        },
+        {
+            "id": 149129,
+            "name": "Mohamed Ali Cho",
+            "position": "Attacker",
+            "dateOfBirth": "2004-01-19T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 21,
+            "role": "PLAYER"
+        },
+        {
+            "id": 151006,
+            "name": "Kévin Boma",
+            "position": "Defender",
+            "dateOfBirth": "2002-11-20T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 165127,
+            "name": "Noah Fatar",
+            "position": "Midfielder",
+            "dateOfBirth": "2002-02-15T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": null
+        }
+    ],
+    "lastUpdated": "2021-02-06T18:01:53Z"
+}

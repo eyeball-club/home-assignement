@@ -1,0 +1,344 @@
+{
+    "id": 10,
+    "area": {
+        "id": 2088,
+        "name": "Germany"
+    },
+    "activeCompetitions": [
+        {
+            "id": 2002,
+            "area": {
+                "id": 2088,
+                "name": "Germany"
+            },
+            "name": "Bundesliga",
+            "code": "BL1",
+            "plan": "TIER_ONE",
+            "lastUpdated": "2022-03-20T08:52:53Z"
+        }
+    ],
+    "name": "VfB Stuttgart",
+    "shortName": "Stuttgart",
+    "tla": "VFB",
+    "crestUrl": "https://crests.football-data.org/10.svg",
+    "address": "Mercedesstraße 109 Stuttgart 70372",
+    "phone": "+49 (1805) 832 5463",
+    "website": "http://www.vfb.de",
+    "email": "info@vfb-stuttgart.de",
+    "founded": 1893,
+    "clubColors": "White / Red",
+    "venue": "Mercedes-Benz Arena",
+    "squad": [
+        {
+            "id": 190,
+            "name": "Nikolas Nartey",
+            "position": "Defender",
+            "dateOfBirth": "2000-02-22T00:00:00Z",
+            "countryOfBirth": "Denmark",
+            "nationality": "Denmark",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 206,
+            "name": "Chris Führich",
+            "position": "Midfielder",
+            "dateOfBirth": "1998-01-09T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 379,
+            "name": "Waldemar Anton",
+            "position": "Defender",
+            "dateOfBirth": "1996-07-20T00:00:00Z",
+            "countryOfBirth": "Uzbekistan",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 3269,
+            "name": "Wataru Endō",
+            "position": "Midfielder",
+            "dateOfBirth": "1993-02-09T00:00:00Z",
+            "countryOfBirth": "Japan",
+            "nationality": "Japan",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 6603,
+            "name": "Fabian Bredlow",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1995-03-02T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 6614,
+            "name": "Florian Müller",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1997-11-13T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 6982,
+            "name": "Roberto Massimo",
+            "position": "Attacker",
+            "dateOfBirth": "2000-10-12T00:00:00Z",
+            "countryOfBirth": "Ghana",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 7079,
+            "name": "Atakan Karazor",
+            "position": "Midfielder",
+            "dateOfBirth": "1996-10-13T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 7789,
+            "name": "Konstantinos Mavropanos",
+            "position": "Defender",
+            "dateOfBirth": "1997-12-11T00:00:00Z",
+            "countryOfBirth": "Greece",
+            "nationality": "Greece",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 9398,
+            "name": "Orel Mangala",
+            "position": "Midfielder",
+            "dateOfBirth": "1998-03-18T00:00:00Z",
+            "countryOfBirth": "Belgium",
+            "nationality": "Belgium",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 9404,
+            "name": "Erik Thommy",
+            "position": "Midfielder",
+            "dateOfBirth": "1994-08-20T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 9425,
+            "name": "Daniel Didavi",
+            "position": "Midfielder",
+            "dateOfBirth": "1990-02-21T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 9487,
+            "name": "Pascal Stenzel",
+            "position": "Midfielder",
+            "dateOfBirth": "1996-03-20T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 10069,
+            "name": "Philipp Förster",
+            "position": "Midfielder",
+            "dateOfBirth": "1995-02-04T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 10208,
+            "name": "Borna Sosa",
+            "position": "Defender",
+            "dateOfBirth": "1998-01-21T00:00:00Z",
+            "countryOfBirth": "Croatia",
+            "nationality": "Croatia",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 10761,
+            "name": "Saša Kalajdžić",
+            "position": "Attacker",
+            "dateOfBirth": "1997-07-07T00:00:00Z",
+            "countryOfBirth": "Austria",
+            "nationality": "Austria",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 48657,
+            "name": "Hiroki Ito",
+            "position": "Midfielder",
+            "dateOfBirth": "1999-05-12T00:00:00Z",
+            "countryOfBirth": "Japan",
+            "nationality": "Japan",
+            "shirtNumber": 15,
+            "role": "PLAYER"
+        },
+        {
+            "id": 59829,
+            "name": "Mateo Klimowicz",
+            "position": "Midfielder",
+            "dateOfBirth": "2000-07-06T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 66896,
+            "name": "Omar Marmoush",
+            "position": "Attacker",
+            "dateOfBirth": "1999-02-07T00:00:00Z",
+            "countryOfBirth": "Egypt",
+            "nationality": "Egypt",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 82354,
+            "name": "Silas Wamangituka",
+            "position": "Attacker",
+            "dateOfBirth": "1999-10-06T00:00:00Z",
+            "countryOfBirth": "Congo DR",
+            "nationality": "DR Congo",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 123108,
+            "name": "Tanguy Coulibaly",
+            "position": "Attacker",
+            "dateOfBirth": "2001-02-18T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 131752,
+            "name": "Naouirou Ahamada",
+            "position": "Midfielder",
+            "dateOfBirth": "2002-03-29T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 136132,
+            "name": "Lilian Egloff",
+            "position": "Midfielder",
+            "dateOfBirth": "2002-08-20T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 140861,
+            "name": "Clinton Mola",
+            "position": "Defender",
+            "dateOfBirth": "2001-03-15T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 143959,
+            "name": "Wahid Faghir",
+            "position": "Attacker",
+            "dateOfBirth": "2003-07-29T00:00:00Z",
+            "countryOfBirth": "Denmark",
+            "nationality": "Denmark",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 145057,
+            "name": "Tiago Tomás",
+            "position": "Attacker",
+            "dateOfBirth": "2002-06-16T00:00:00Z",
+            "countryOfBirth": "Portugal",
+            "nationality": "Portugal",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 147913,
+            "name": "Enzo Millot",
+            "position": "Midfielder",
+            "dateOfBirth": "2002-07-17T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 38,
+            "role": "PLAYER"
+        },
+        {
+            "id": 150050,
+            "name": "Florian Schock",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2001-05-22T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 156949,
+            "name": "Mohamed Sankoh",
+            "position": "Defender",
+            "dateOfBirth": null,
+            "countryOfBirth": "Sierra Leone",
+            "nationality": "Netherlands",
+            "shirtNumber": null,
+            "role": null
+        },
+        {
+            "id": 176322,
+            "name": "Alexis Tibidi",
+            "position": null,
+            "dateOfBirth": "2003-11-03T00:00:00Z",
+            "countryOfBirth": null,
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": null
+        },
+        {
+            "id": 170065,
+            "name": "Ömer Beyaz",
+            "position": null,
+            "dateOfBirth": "2003-08-29T00:00:00Z",
+            "countryOfBirth": null,
+            "nationality": "Turkey",
+            "shirtNumber": null,
+            "role": null
+        }
+    ],
+    "lastUpdated": "2021-04-07T17:14:54Z"
+}

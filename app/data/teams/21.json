@@ -1,0 +1,304 @@
+{
+    "id": 21,
+    "area": {
+        "id": 2088,
+        "name": "Germany"
+    },
+    "activeCompetitions": [
+        {
+            "id": 2002,
+            "area": {
+                "id": 2088,
+                "name": "Germany"
+            },
+            "name": "Bundesliga",
+            "code": "BL1",
+            "plan": "TIER_ONE",
+            "lastUpdated": "2022-03-20T08:52:53Z"
+        }
+    ],
+    "name": "SpVgg Greuther Fürth 1903",
+    "shortName": "Greuther Fürth",
+    "tla": "FUR",
+    "crestUrl": "https://crests.football-data.org/21.svg",
+    "address": "Laubenweg 60 Fürth 90765",
+    "phone": "+49 (0911) 9767680",
+    "website": "http://www.greuther-fuerth.de",
+    "email": "info@greuther-fuerth.de",
+    "founded": 1860,
+    "clubColors": "White / Green",
+    "venue": "Sportpark Ronhof Thomas Sommer",
+    "squad": [
+        {
+            "id": 368,
+            "name": "Timothy Tillman",
+            "position": "Midfielder",
+            "dateOfBirth": "1999-01-04T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 6528,
+            "name": "Gideon Jung",
+            "position": "Midfielder",
+            "dateOfBirth": "1994-09-12T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 6649,
+            "name": "Simon Asta",
+            "position": "Defender",
+            "dateOfBirth": "2001-01-25T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": 20,
+            "role": "PLAYER"
+        },
+        {
+            "id": 6708,
+            "name": "Jetro Willems",
+            "position": "Defender",
+            "dateOfBirth": "1994-03-30T00:00:00Z",
+            "countryOfBirth": "Curaçao",
+            "nationality": "Netherlands",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 6719,
+            "name": "Branimir Hrgota",
+            "position": "Attacker",
+            "dateOfBirth": "1993-01-12T00:00:00Z",
+            "countryOfBirth": "Bosnia and Herzegovina",
+            "nationality": "Sweden",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 6743,
+            "name": "Jeremy Dudziak",
+            "position": "Midfielder",
+            "dateOfBirth": "1995-08-28T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 6856,
+            "name": "Max Christiansen",
+            "position": "Midfielder",
+            "dateOfBirth": "1996-09-25T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 7027,
+            "name": "Sebastian Griesbeck",
+            "position": "Midfielder",
+            "dateOfBirth": "1990-10-03T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 7548,
+            "name": "Nick Viergever",
+            "position": "Defender",
+            "dateOfBirth": "1989-08-03T00:00:00Z",
+            "countryOfBirth": "Netherlands",
+            "nationality": "Netherlands",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 9416,
+            "name": "Gian-Luca Itter",
+            "position": "Defender",
+            "dateOfBirth": "1999-01-05T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 9529,
+            "name": "Håvard Nielsen",
+            "position": "Attacker",
+            "dateOfBirth": "1993-07-15T00:00:00Z",
+            "countryOfBirth": "Norway",
+            "nationality": "Norway",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 9886,
+            "name": "Sascha Burchert",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1989-10-30T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 9888,
+            "name": "Marius Funk",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1996-01-01T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 9917,
+            "name": "Julian Green",
+            "position": "Attacker",
+            "dateOfBirth": "1995-06-06T00:00:00Z",
+            "countryOfBirth": "United States",
+            "nationality": "United States",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 9974,
+            "name": "Paul Seguin",
+            "position": "Midfielder",
+            "dateOfBirth": "1995-03-29T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 16062,
+            "name": "Afimico Pululu",
+            "position": "Attacker",
+            "dateOfBirth": "1999-03-23T00:00:00Z",
+            "countryOfBirth": "Angola",
+            "nationality": "Angola",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 38076,
+            "name": "Andreas Linde",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1993-07-24T00:00:00Z",
+            "countryOfBirth": "Sweden",
+            "nationality": "Sweden",
+            "shirtNumber": 1,
+            "role": "PLAYER"
+        },
+        {
+            "id": 65708,
+            "name": "Marco Meyerhöfer",
+            "position": "Defender",
+            "dateOfBirth": "1995-11-18T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 66014,
+            "name": "Leon Schaffran",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1998-07-31T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 72477,
+            "name": "Maximilian Bauer",
+            "position": "Defender",
+            "dateOfBirth": "2000-02-09T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 74702,
+            "name": "Abdourahmane Barry",
+            "position": "Defender",
+            "dateOfBirth": "2000-02-21T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 120963,
+            "name": "Tobias Raschl",
+            "position": "Midfielder",
+            "dateOfBirth": "2000-02-21T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 123049,
+            "name": "Jessic Ngankam",
+            "position": "Midfielder",
+            "dateOfBirth": "2000-07-20T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 123333,
+            "name": "Jamie Leweling",
+            "position": "Midfielder",
+            "dateOfBirth": "2001-02-26T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 150527,
+            "name": "Dickson Abiama",
+            "position": "Attacker",
+            "dateOfBirth": "1998-11-03T00:00:00Z",
+            "countryOfBirth": "Nigeria",
+            "nationality": "Nigeria",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 157259,
+            "name": "Lasse Schulz",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2003-03-29T00:00:00Z",
+            "countryOfBirth": "Finland",
+            "nationality": "Finland",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 161329,
+            "name": "Robin Kehr",
+            "position": null,
+            "dateOfBirth": "2000-02-22T00:00:00Z",
+            "countryOfBirth": null,
+            "nationality": "Germany",
+            "shirtNumber": null,
+            "role": null
+        }
+    ],
+    "lastUpdated": "2021-04-09T02:23:01Z"
+}

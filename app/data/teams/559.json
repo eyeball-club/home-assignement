@@ -1,0 +1,327 @@
+{
+    "id": 559,
+    "area": {
+        "id": 2224,
+        "name": "Spain"
+    },
+    "activeCompetitions": [
+        {
+            "id": 2014,
+            "area": {
+                "id": 2224,
+                "name": "Spain"
+            },
+            "name": "Primera Division",
+            "code": "PD",
+            "plan": "TIER_ONE",
+            "lastUpdated": "2022-03-20T09:20:08Z"
+        },
+        {
+            "id": 2001,
+            "area": {
+                "id": 2077,
+                "name": "Europe"
+            },
+            "name": "UEFA Champions League",
+            "code": "CL",
+            "plan": "TIER_ONE",
+            "lastUpdated": "2022-03-20T09:20:44Z"
+        },
+        {
+            "id": 2146,
+            "area": {
+                "id": 2077,
+                "name": "Europe"
+            },
+            "name": "UEFA Europa League",
+            "code": "EL",
+            "plan": "TIER_TWO",
+            "lastUpdated": "2022-03-20T09:23:04Z"
+        },
+        {
+            "id": 2079,
+            "area": {
+                "id": 2224,
+                "name": "Spain"
+            },
+            "name": "Copa del Rey",
+            "code": "CDR",
+            "plan": "TIER_THREE",
+            "lastUpdated": "2021-04-16T00:00:33Z"
+        }
+    ],
+    "name": "Sevilla FC",
+    "shortName": "Sevilla FC",
+    "tla": "SEV",
+    "crestUrl": "https://crests.football-data.org/559.svg",
+    "address": "Calle Sevilla Fútbol Club, s/n Sevilla 41005",
+    "phone": "+34 (902) 510011",
+    "website": "http://www.sevillafc.es",
+    "email": "sevillafc@sevillafc.es",
+    "founded": 1905,
+    "clubColors": "White / Red",
+    "venue": "Estadio Ramón Sánchez Pizjuán",
+    "squad": [
+        {
+            "id": 54,
+            "name": "Jesús Navas",
+            "position": "Midfielder",
+            "dateOfBirth": "1985-11-21T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 1752,
+            "name": "Suso",
+            "position": "Midfielder",
+            "dateOfBirth": "1993-11-19T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 1840,
+            "name": "Alejandro Gómez",
+            "position": "Attacker",
+            "dateOfBirth": "1988-02-15T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Argentina",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 3212,
+            "name": "Marcos Acuña",
+            "position": "Midfielder",
+            "dateOfBirth": "1991-10-28T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Argentina",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 3296,
+            "name": "Jesús Manuel Corona",
+            "position": "Midfielder",
+            "dateOfBirth": "1993-01-06T00:00:00Z",
+            "countryOfBirth": "Mexico",
+            "nationality": "Mexico",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 3372,
+            "name": "Anthony Martial",
+            "position": "Attacker",
+            "dateOfBirth": "1995-12-05T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 3430,
+            "name": "Marko Dmitrović",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1992-01-24T00:00:00Z",
+            "countryOfBirth": "Serbia",
+            "nationality": "Serbia",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 3460,
+            "name": "Thomas Delaney",
+            "position": "Midfielder",
+            "dateOfBirth": "1991-09-03T00:00:00Z",
+            "countryOfBirth": "Denmark",
+            "nationality": "Denmark",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 3554,
+            "name": "Ivan Rakitić",
+            "position": "Midfielder",
+            "dateOfBirth": "1988-03-10T00:00:00Z",
+            "countryOfBirth": "Switzerland",
+            "nationality": "Croatia",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 3694,
+            "name": "Yassine Bounou",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1991-04-05T00:00:00Z",
+            "countryOfBirth": "Canada",
+            "nationality": "Morocco",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 4098,
+            "name": "Rafael Mir",
+            "position": "Attacker",
+            "dateOfBirth": "1997-06-18T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 6552,
+            "name": "Karim Rekik",
+            "position": "Defender",
+            "dateOfBirth": "1994-12-02T00:00:00Z",
+            "countryOfBirth": "Netherlands",
+            "nationality": "Netherlands",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8005,
+            "name": "Erik Lamela",
+            "position": "Midfielder",
+            "dateOfBirth": "1992-03-04T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Argentina",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8358,
+            "name": "Lucas Ocampos",
+            "position": "Attacker",
+            "dateOfBirth": "1994-07-11T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Argentina",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8499,
+            "name": "Jules Koundé",
+            "position": "Defender",
+            "dateOfBirth": "1998-11-12T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8698,
+            "name": "Diego Carlos",
+            "position": "Midfielder",
+            "dateOfBirth": "1993-03-15T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 9445,
+            "name": "Ludwig Augustinsson",
+            "position": "Defender",
+            "dateOfBirth": "1994-04-21T00:00:00Z",
+            "countryOfBirth": "Sweden",
+            "nationality": "Sweden",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 11667,
+            "name": "Gonzalo Montiel",
+            "position": "Defender",
+            "dateOfBirth": "1997-01-01T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Argentina",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 15911,
+            "name": "Óliver Torres",
+            "position": "Midfielder",
+            "dateOfBirth": "1994-11-10T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 21410,
+            "name": "Nemanja Gudelj",
+            "position": "Midfielder",
+            "dateOfBirth": "1991-11-16T00:00:00Z",
+            "countryOfBirth": "Serbia",
+            "nationality": "Serbia",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 30557,
+            "name": "Fernando",
+            "position": "Midfielder",
+            "dateOfBirth": "1987-07-25T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 32836,
+            "name": "Youssef En-Nesyri",
+            "position": "Attacker",
+            "dateOfBirth": "1997-06-01T00:00:00Z",
+            "countryOfBirth": "Morocco",
+            "nationality": "Morocco",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 33067,
+            "name": "Javier Díaz",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1997-05-15T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 33243,
+            "name": "Munir El Haddadi",
+            "position": "Attacker",
+            "dateOfBirth": "1995-09-01T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Morocco",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 33350,
+            "name": "Jordán",
+            "position": "Midfielder",
+            "dateOfBirth": "1994-07-06T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 156746,
+            "name": "Iván Romero",
+            "position": "Attacker",
+            "dateOfBirth": "2001-04-10T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        }
+    ],
+    "lastUpdated": "2021-04-12T13:09:55Z"
+}

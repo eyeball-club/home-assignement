@@ -1,0 +1,285 @@
+{
+    "id": 285,
+    "area": {
+        "id": 2224,
+        "name": "Spain"
+    },
+    "activeCompetitions": [
+        {
+            "id": 2014,
+            "area": {
+                "id": 2224,
+                "name": "Spain"
+            },
+            "name": "Primera Division",
+            "code": "PD",
+            "plan": "TIER_ONE",
+            "lastUpdated": "2022-03-20T09:20:08Z"
+        },
+        {
+            "id": 2079,
+            "area": {
+                "id": 2224,
+                "name": "Spain"
+            },
+            "name": "Copa del Rey",
+            "code": "CDR",
+            "plan": "TIER_THREE",
+            "lastUpdated": "2021-04-16T00:00:33Z"
+        }
+    ],
+    "name": "Elche CF",
+    "shortName": "Elche",
+    "tla": "ELC",
+    "crestUrl": "https://crests.football-data.org/285.png",
+    "address": "Avenida Manuel Martínez Valero, 3 Elche 03208",
+    "phone": "+34 (965) 459714",
+    "website": "http://www.elchecf.es",
+    "email": "info@elchecf.es",
+    "founded": 1923,
+    "clubColors": "White / Green",
+    "venue": "Estadio Manuel Martínez Valero",
+    "squad": [
+        {
+            "id": 13,
+            "name": "Antonio Barragán",
+            "position": "Defender",
+            "dateOfBirth": "1987-06-12T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": 19,
+            "role": "PLAYER"
+        },
+        {
+            "id": 67,
+            "name": "Kiko Casilla",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1986-10-02T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 3724,
+            "name": "Johan Mojica",
+            "position": "Defender",
+            "dateOfBirth": "1992-08-21T00:00:00Z",
+            "countryOfBirth": "Colombia",
+            "nationality": "Colombia",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 6713,
+            "name": "Omar Mascarell",
+            "position": "Midfielder",
+            "dateOfBirth": "1993-02-02T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8103,
+            "name": "Guido Carrillo",
+            "position": "Attacker",
+            "dateOfBirth": "1991-05-25T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Argentina",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8414,
+            "name": "Ezequiel Ponce",
+            "position": "Attacker",
+            "dateOfBirth": "1997-03-29T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Argentina",
+            "shirtNumber": 19,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8483,
+            "name": "Javier Pastore",
+            "position": "Midfielder",
+            "dateOfBirth": "1989-06-20T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Argentina",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 11113,
+            "name": "Lucas Boyé",
+            "position": "Attacker",
+            "dateOfBirth": "1996-02-28T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Argentina",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 22504,
+            "name": "Helibelton Palacios",
+            "position": "Defender",
+            "dateOfBirth": "1993-06-09T00:00:00Z",
+            "countryOfBirth": "Colombia",
+            "nationality": "Colombia",
+            "shirtNumber": 13,
+            "role": "PLAYER"
+        },
+        {
+            "id": 32115,
+            "name": "Kike Pérez",
+            "position": "Midfielder",
+            "dateOfBirth": "1997-02-14T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 32165,
+            "name": "Raúl Guti",
+            "position": "Midfielder",
+            "dateOfBirth": "1996-12-30T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 32281,
+            "name": "Josán Fernández",
+            "position": "Attacker",
+            "dateOfBirth": "1989-12-03T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 32398,
+            "name": "Pere Milla",
+            "position": "Attacker",
+            "dateOfBirth": "1992-09-23T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 32634,
+            "name": "Fidel",
+            "position": "Midfielder",
+            "dateOfBirth": "1989-10-27T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 32708,
+            "name": "Pablo Piatti",
+            "position": "Midfielder",
+            "dateOfBirth": "1989-03-31T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Argentina",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 32810,
+            "name": "Diego González",
+            "position": "Defender",
+            "dateOfBirth": "1995-01-28T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 32959,
+            "name": "Edgar Badía",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1992-02-12T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 33318,
+            "name": "Pedro Bigas",
+            "position": "Defender",
+            "dateOfBirth": "1990-05-15T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 33451,
+            "name": "Gonzalo Verdú",
+            "position": "Defender",
+            "dateOfBirth": "1988-10-21T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 33711,
+            "name": "Gerard Gumbau",
+            "position": "Midfielder",
+            "dateOfBirth": "1994-12-18T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 33843,
+            "name": "Tete Morente",
+            "position": "Attacker",
+            "dateOfBirth": "1996-12-04T00:00:00Z",
+            "countryOfBirth": "Spain",
+            "nationality": "Spain",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 39614,
+            "name": "Enzo Roco",
+            "position": "Defender",
+            "dateOfBirth": "1992-08-16T00:00:00Z",
+            "countryOfBirth": "Chile",
+            "nationality": "Chile",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 45912,
+            "name": "Iván Marcone",
+            "position": "Midfielder",
+            "dateOfBirth": "1990-06-03T00:00:00Z",
+            "countryOfBirth": "Argentina",
+            "nationality": "Argentina",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 46122,
+            "name": "Lucas Olaza",
+            "position": "Defender",
+            "dateOfBirth": "1994-07-21T00:00:00Z",
+            "countryOfBirth": "Uruguay",
+            "nationality": "Uruguay",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        }
+    ],
+    "lastUpdated": "2022-02-24T07:42:28Z"
+}

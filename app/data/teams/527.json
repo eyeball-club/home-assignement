@@ -1,0 +1,344 @@
+{
+    "id": 527,
+    "area": {
+        "id": 2081,
+        "name": "France"
+    },
+    "activeCompetitions": [
+        {
+            "id": 2015,
+            "area": {
+                "id": 2081,
+                "name": "France"
+            },
+            "name": "Ligue 1",
+            "code": "FL1",
+            "plan": "TIER_ONE",
+            "lastUpdated": "2022-03-20T09:30:02Z"
+        }
+    ],
+    "name": "AS Saint-Étienne",
+    "shortName": "Saint-Étienne",
+    "tla": "ASS",
+    "crestUrl": "https://crests.football-data.org/527.png",
+    "address": "11 rue de Verdun L'Étrat 42580",
+    "phone": "+33 (0477) 929899",
+    "website": "http://www.asse.fr",
+    "email": "asse@lrafoot.org",
+    "founded": 1919,
+    "clubColors": "Green / White",
+    "venue": "Stade Geoffroy-Guichard",
+    "squad": [
+        {
+            "id": 575,
+            "name": "Arnaud Nordin",
+            "position": "Midfielder",
+            "dateOfBirth": "1998-06-17T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 18,
+            "role": "PLAYER"
+        },
+        {
+            "id": 602,
+            "name": "Denis Bouanga",
+            "position": "Midfielder",
+            "dateOfBirth": "1994-11-11T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "Gabon",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 618,
+            "name": "Harold Moukoudi",
+            "position": "Defender",
+            "dateOfBirth": "1997-11-27T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "Cameroon",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 704,
+            "name": "Paul Bernardoni",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1997-04-18T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 1,
+            "role": "PLAYER"
+        },
+        {
+            "id": 860,
+            "name": "Sada Thioub",
+            "position": "Attacker",
+            "dateOfBirth": "1995-06-01T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "Senegal",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 1535,
+            "name": "Miguel Trauco",
+            "position": "Defender",
+            "dateOfBirth": "1992-08-25T00:00:00Z",
+            "countryOfBirth": "Peru",
+            "nationality": "Peru",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 3598,
+            "name": "Wahbi Khazri",
+            "position": "Attacker",
+            "dateOfBirth": "1991-02-08T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "Tunisia",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 3631,
+            "name": "Assane Dioussé",
+            "position": "Midfielder",
+            "dateOfBirth": "1997-09-20T00:00:00Z",
+            "countryOfBirth": "Senegal",
+            "nationality": "Senegal",
+            "shirtNumber": 25,
+            "role": "PLAYER"
+        },
+        {
+            "id": 7833,
+            "name": "Eliaquim Mangala",
+            "position": "Defender",
+            "dateOfBirth": "1991-02-13T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8155,
+            "name": "Bakary Sako",
+            "position": "Midfielder",
+            "dateOfBirth": "1988-04-26T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "Mali",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8340,
+            "name": "Enzo Crivelli",
+            "position": "Attacker",
+            "dateOfBirth": "1995-02-06T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8511,
+            "name": "Zaydou Youssouf",
+            "position": "Midfielder",
+            "dateOfBirth": "1999-07-11T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8532,
+            "name": "Gabriel Silva",
+            "position": "Defender",
+            "dateOfBirth": "1991-05-13T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8536,
+            "name": "Romain Hamouma",
+            "position": "Midfielder",
+            "dateOfBirth": "1987-03-29T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 21,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8542,
+            "name": "Mahdi Camara",
+            "position": "Midfielder",
+            "dateOfBirth": "1998-06-30T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 8,
+            "role": "PLAYER"
+        },
+        {
+            "id": 8804,
+            "name": "Joris Gnagnon",
+            "position": "Defender",
+            "dateOfBirth": "1997-01-13T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 33041,
+            "name": "Ryad Boudebouz",
+            "position": "Midfielder",
+            "dateOfBirth": "1990-02-19T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "Algeria",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 37446,
+            "name": "Falaye Sacko",
+            "position": "Defender",
+            "dateOfBirth": "1995-05-01T00:00:00Z",
+            "countryOfBirth": "Mali",
+            "nationality": "Mali",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 40000,
+            "name": "Timothée Kolodziejczak",
+            "position": "Defender",
+            "dateOfBirth": "1991-10-01T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 5,
+            "role": "PLAYER"
+        },
+        {
+            "id": 101999,
+            "name": "Bilal Benkhedim",
+            "position": "Midfielder",
+            "dateOfBirth": "2001-04-20T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 15,
+            "role": "PLAYER"
+        },
+        {
+            "id": 102213,
+            "name": "Yvan Neyou",
+            "position": "Midfielder",
+            "dateOfBirth": "1997-01-03T00:00:00Z",
+            "countryOfBirth": "Cameroon",
+            "nationality": "Cameroon",
+            "shirtNumber": 19,
+            "role": "PLAYER"
+        },
+        {
+            "id": 113863,
+            "name": "Yvann Macon",
+            "position": "Defender",
+            "dateOfBirth": "1998-10-01T00:00:00Z",
+            "countryOfBirth": "Guadeloupe",
+            "nationality": "France",
+            "shirtNumber": 27,
+            "role": "PLAYER"
+        },
+        {
+            "id": 117814,
+            "name": "Mickaël Nade",
+            "position": "Defender",
+            "dateOfBirth": "1999-03-04T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 128453,
+            "name": "Adil Aouchiche",
+            "position": "Midfielder",
+            "dateOfBirth": "2002-07-15T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 17,
+            "role": "PLAYER"
+        },
+        {
+            "id": 131109,
+            "name": "Stefan Bajic",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2001-12-23T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 1,
+            "role": "PLAYER"
+        },
+        {
+            "id": 137563,
+            "name": "Aimen Moueffek",
+            "position": "Defender",
+            "dateOfBirth": "2001-04-09T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 137564,
+            "name": "Maxence Rivera",
+            "position": "Attacker",
+            "dateOfBirth": "2002-05-30T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 32,
+            "role": "PLAYER"
+        },
+        {
+            "id": 142488,
+            "name": "Lucas Douath",
+            "position": "Midfielder",
+            "dateOfBirth": "2003-08-05T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "shirtNumber": 33,
+            "role": "PLAYER"
+        },
+        {
+            "id": 149127,
+            "name": "Saïdou Sow",
+            "position": "Defender",
+            "dateOfBirth": "2002-07-04T00:00:00Z",
+            "countryOfBirth": "Guinea",
+            "nationality": "Guinea",
+            "shirtNumber": 31,
+            "role": "PLAYER"
+        },
+        {
+            "id": 157658,
+            "name": "Boubacar Fall",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2001-02-03T00:00:00Z",
+            "countryOfBirth": "Senegal",
+            "nationality": "Senegal",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        },
+        {
+            "id": 157719,
+            "name": "Etienne Green",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2000-07-19T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "England",
+            "shirtNumber": null,
+            "role": "PLAYER"
+        }
+    ],
+    "lastUpdated": "2022-02-25T16:43:53Z"
+}
